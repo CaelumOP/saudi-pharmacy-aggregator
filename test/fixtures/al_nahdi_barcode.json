@@ -1,0 +1,99 @@
+{
+  "hits": [],
+  "nbHits": 0,
+  "hitsPerPage": 5,
+  "page": 0,
+  "nbPages": 0,
+  "processingTimeMS": 107,
+  "processingTimingsMS": {
+    "makeKeywordRequest": {
+      "total": 0
+    },
+    "normalizeText": {
+      "total": 0
+    },
+    "getBrowseFilter": {
+      "total": 0
+    },
+    "runLegacyExtension": {
+      "total": 1
+    },
+    "getBrowseFilters": {
+      "total": 0
+    },
+    "experimentalAdaptiveIntentHash": {
+      "total": 1
+    },
+    "hashText": {
+      "total": 0
+    },
+    "makeVectorRequest": {
+      "total": 0
+    },
+    "vectorSearch": {
+      "total": 0
+    },
+    "keywordSearch": {
+      "_request": {
+        "roundTrip": 2
+      },
+      "total": 2,
+      "network": 2
+    },
+    "total": 107,
+    "evaluateRules": {
+      "pinRetrievalMS": 6,
+      "marshalMS": 0,
+      "buildRequestMS": 0,
+      "networkMS": 72,
+      "unmarshalMS": 0,
+      "total": 78
+    },
+    "makeLegacyExtensionRequest": {
+      "total": 0
+    },
+    "isLegacyExtensionEnabled": {
+      "total": 0
+    },
+    "getAIConfig": {
+      "total": 0
+    },
+    "drrPromotedObjectIDs": {
+      "total": 0
+    },
+    "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+    },
+    "makeResponse": {
+      "total": 6,
+      "_request": {
+        "roundTrip": 2
+      }
+    },
+    "stringRegexpExtract": {
+      "total": 0
+    }
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "query": "6291038000305",
+  "queryAfterRemoval": "6291038000305",
+  "queryID": "62562115ef9483ba3ff8ea11cded2068",
+  "_automaticInsights": true,
+  "params": "query=6291038000305&hitsPerPage=5&numericFilters=%5B%22visibility_search%3D1%22%2C%22price.SAR.default%3E0.01%22%5D&optionalFilters=%5B%22imf_category%3A-PETS+CARE%5Cu003cscore%3D8%5Cu003e%22%2C%22imf_item_brand%3A-Pampers%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Head+%5Cu0026+Shoulders%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Herbal+Essences%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Pantene%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Always%5Cu003cscore%3D10%5Cu003e%22%5D&sumOrFiltersScores=false",
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": []
+      }
+    }
+  },
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "aiReRanking": {
+    "reRankingActivated": true,
+    "persoImpactInsideActivationWindow": false
+  }
+}

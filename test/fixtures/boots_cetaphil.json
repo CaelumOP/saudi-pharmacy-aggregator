@@ -1,0 +1,1812 @@
+{
+  "hits": [
+    {
+      "attr_brand": "Cetaphil",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:47+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOCET92878",
+      "title": "Cetaphil Baby Gentle Wash And Shampoo 300ml",
+      "attr_aims_barcode": "7613035392878,7613035392885",
+      "alshaya_price_range": {
+        "from": {
+          "min": 68,
+          "max": 68
+        },
+        "to": {
+          "min": 68,
+          "max": 68
+        }
+      },
+      "price": 68,
+      "final_price": 68,
+      "original_price": 68,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 3,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Wellness/Vegan/Vegan Skincare",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOCET92878",
+        "gtm-name": "Cetaphil Baby Gentle Wash And Shampoo 300ml",
+        "gtm-product-sku": "BZBTSLOCET92878",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Cetaphil",
+        "gtm-price": "68",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "57792",
+        "gtm-product-style-code": "BZBTSLOCET92878",
+        "gtm-old-price": "68",
+        "gtm-department-id": "1655",
+        "gtm-department-name": "Shop by Department|Wellness|Vegan|Vegan Skincare"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Hair",
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Hair > Shampoo",
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Offers > Cetaphil",
+          "Offers > Shop All Aura Summer Offers",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Hair",
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Hair > Shampoo",
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Offers > Cetaphil",
+          "Offers > Shop All Aura Summer Offers",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:267bf85b-775d-4a4f-a8e8-6ba5cd860450/as/SK-BZBTSLOCET92878_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:8e2cee8e-ab42-41a4-aa7e-dbb2c1884006/as/SK-BZBTSLOCET92878_2.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:97bd553c-e9f3-4644-8218-7e24591fd6a3/as/SK-BZBTSLOCET92878_3.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-cetaphil-baby-gentle-wash-and-shampoo-300ml-0",
+      "changed": 1791934891,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643730630,
+      "created": 1643730630,
+      "search_api_id": "BZBTSLOCET92878",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10000.0000",
+        "cart_title": "cetaphil baby gentle wash and shampoo 300ml",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:267bf85b-775d-4a4f-a8e8-6ba5cd860450/as/SK-BZBTSLOCET92878_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934892,
+      "objectID": "BZBTSLOCET92878"
+    },
+    {
+      "attr_brand": "Cetaphil",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-09-28T06:17:46+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOCET93448",
+      "title": "Cetaphil Baby Daily Lotion 300ml",
+      "attr_aims_barcode": 7613035393448,
+      "alshaya_price_range": {
+        "from": {
+          "min": 68,
+          "max": 68
+        },
+        "to": {
+          "min": 68,
+          "max": 68
+        }
+      },
+      "price": 68,
+      "final_price": 68,
+      "original_price": 68,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 3,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Wellness/Vegan/Vegan Skincare",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOCET93448",
+        "gtm-name": "Cetaphil Baby Daily Lotion 300ml",
+        "gtm-product-sku": "BZBTSLOCET93448",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Cetaphil",
+        "gtm-price": "68",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "57726",
+        "gtm-product-style-code": "BZBTSLOCET93448",
+        "gtm-old-price": "68",
+        "gtm-department-id": "1655",
+        "gtm-department-name": "Shop by Department|Wellness|Vegan|Vegan Skincare"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "PIRO TEST",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Shop by Department > Deals Under SAR 10",
+          "PIRO TEST > ALTA | UAE",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "PIRO TEST",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Shop by Department > Deals Under SAR 10",
+          "PIRO TEST > ALTA | UAE",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:b187fac2-a883-4368-9f6d-73c6af6ec065/as/SK-BZBTSLOCET93448_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:5945aad6-edef-478b-95f0-dde3962eb1a8/as/SK-BZBTSLOCET93448_2.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:4b2b0631-40b8-4005-8d82-60645c6e92c6/as/SK-BZBTSLOCET93448_3.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:486132a3-ee97-49ce-bdd3-442683ab8ed1/as/SK-BZBTSLOCET93448_4.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-cetaphil-baby-daily-lotion-300ml-0",
+      "changed": 1791867565,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643730627,
+      "created": 1643730627,
+      "search_api_id": "BZBTSLOCET93448",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "50.0000",
+        "cart_title": "cetaphil baby daily lotion 300ml",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:b187fac2-a883-4368-9f6d-73c6af6ec065/as/SK-BZBTSLOCET93448_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791867603,
+      "objectID": "BZBTSLOCET93448"
+    },
+    {
+      "attr_brand": "Cetaphil",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-08T11:20:29+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOCET68248",
+      "title": "Cetaphil Daylong SPF 50+ Lotion 100ml",
+      "attr_aims_barcode": 7612076368248,
+      "alshaya_price_range": {
+        "from": {
+          "min": 168,
+          "max": 168
+        },
+        "to": {
+          "min": 168,
+          "max": 168
+        }
+      },
+      "price": 168,
+      "final_price": 168,
+      "original_price": 168,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 3,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Brands/Cetaphil/All Cetaphil",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOCET68248",
+        "gtm-name": "Cetaphil Daylong SPF 50+ Lotion 100ml",
+        "gtm-product-sku": "BZBTSLOCET68248",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Cetaphil",
+        "gtm-price": "168",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "57681",
+        "gtm-product-style-code": "BZBTSLOCET68248",
+        "gtm-old-price": "168",
+        "gtm-department-id": "16450",
+        "gtm-department-name": "Brands|Cetaphil|All Cetaphil"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "PIRO TEST",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Suncare & Tanning",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "PIRO TEST > ALTA | UAE",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Suncare & Tanning > Visit Suncare & Tanning",
+          "Shop by Department > Suncare & Tanning > Sunscreen",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Sun Preparation 25% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "PIRO TEST",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Suncare & Tanning",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "PIRO TEST > ALTA | UAE",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Suncare & Tanning > Visit Suncare & Tanning",
+          "Shop by Department > Suncare & Tanning > Sunscreen",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Sun Preparation 25% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:437e6d6e-0447-4a5e-9da2-0759469121bc/as/SK-BZBTSLOCET68248_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-cetaphil-daylong-spf-50-lotion-100ml",
+      "changed": 1791867575,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643730626,
+      "created": 1643730626,
+      "search_api_id": "BZBTSLOCET68248",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10000.0000",
+        "cart_title": "cetaphil daylong spf 50+ lotion 100ml",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:437e6d6e-0447-4a5e-9da2-0759469121bc/as/SK-BZBTSLOCET68248_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791867615,
+      "objectID": "BZBTSLOCET68248"
+    },
+    {
+      "attr_brand": "Cetaphil",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-09-28T06:17:46+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOCET92885",
+      "title": "Cetaphil Baby Gentle Wash And Shampoo 300ml",
+      "attr_aims_barcode": 7613035392885,
+      "alshaya_price_range": {
+        "from": {
+          "min": 68,
+          "max": 68
+        },
+        "to": {
+          "min": 68,
+          "max": 68
+        }
+      },
+      "price": 68,
+      "final_price": 68,
+      "original_price": 68,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 1,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Wellness/Vegan/Vegan Skincare",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOCET92885",
+        "gtm-name": "Cetaphil Baby Gentle Wash And Shampoo 300ml",
+        "gtm-product-sku": "BZBTSLOCET92885",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Cetaphil",
+        "gtm-price": "68",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "57687",
+        "gtm-product-style-code": "BZBTSLOCET92885",
+        "gtm-old-price": "68",
+        "gtm-department-id": "1655",
+        "gtm-department-name": "Shop by Department|Wellness|Vegan|Vegan Skincare"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Baby",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Baby > Visit Baby ",
+          "Shop by Department > Baby > Bathing",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:3973b888-6b49-4658-86de-4cb5e2c822e0/as/SK-BZBTSLOCET92885_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:b0945070-4f5e-4a81-b370-638d1f2b9420/as/SK-BZBTSLOCET92885_2.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:4403d3bf-2fd8-4398-92d2-9707418363ce/as/SK-BZBTSLOCET92885_3.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-cetaphil-baby-gentle-wash-and-shampoo-300ml",
+      "changed": 1791867573,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643730626,
+      "created": 1643730626,
+      "search_api_id": "BZBTSLOCET92885",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "50.0000",
+        "cart_title": "cetaphil baby gentle wash and shampoo 300ml",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:3973b888-6b49-4658-86de-4cb5e2c822e0/as/SK-BZBTSLOCET92885_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791867610,
+      "attr_bv_total_review_count": 1,
+      "attr_bv_rating_distribution": [
+        "rating_5_1"
+      ],
+      "attr_bv_average_overall_rating": 5,
+      "attr_bv_rating": [
+        "rating_5"
+      ],
+      "objectID": "BZBTSLOCET92885"
+    },
+    {
+      "attr_brand": "Cetaphil",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-08T14:00:28+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOCET68293",
+      "title": "Cetaphil Sun Spf50+ Gel 50ml",
+      "attr_aims_barcode": 7612076368293,
+      "alshaya_price_range": {
+        "from": {
+          "min": 132.5,
+          "max": 132.5
+        },
+        "to": {
+          "min": 132.5,
+          "max": 132.5
+        }
+      },
+      "price": 132.5,
+      "final_price": 132.5,
+      "original_price": 132.5,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 17,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Brands/Cetaphil/All Cetaphil",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOCET68293",
+        "gtm-name": "Cetaphil Sun Spf50+ Gel 50ml",
+        "gtm-product-sku": "BZBTSLOCET68293",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Cetaphil",
+        "gtm-price": "132.5",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "57615",
+        "gtm-product-style-code": "BZBTSLOCET68293",
+        "gtm-old-price": "132.5",
+        "gtm-department-id": "16450",
+        "gtm-department-name": "Brands|Cetaphil|All Cetaphil"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands"
+        ],
+        "lvl1": [
+          "Shop by Department > Suncare & Tanning",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil"
+        ],
+        "lvl2": [
+          "Shop by Department > Suncare & Tanning > Visit Suncare & Tanning",
+          "Shop by Department > Suncare & Tanning > Sunscreen",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Buy 1 Get 1 Free",
+          "Offers > Shop All Ramadan Price Points",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Sun Preparation 25% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare",
+          "Offers > Buy 1 Get 1 Free > Shop All Buy 1 Get 1 Free"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Brands"
+        ],
+        "lvl1": [
+          "Shop by Department > Suncare & Tanning",
+          "Shop by Department > Wellness",
+          "Brands > Cetaphil"
+        ],
+        "lvl2": [
+          "Shop by Department > Suncare & Tanning > Visit Suncare & Tanning",
+          "Shop by Department > Suncare & Tanning > Sunscreen",
+          "Shop by Department > Wellness > Vegan",
+          "Offers > Everything At 25% Off",
+          "Offers > Buy 1 Get 1 Free",
+          "Offers > Shop All Ramadan Price Points",
+          "Offers > Healthcare Skin",
+          "Offers > Shop All Deals 25% to 50% Off",
+          "Offers > Sun Preparation 25% Off",
+          "Offers > Shop All Summer Edit",
+          "Offers > Cetaphil 25% Off",
+          "Offers > Shop All Summer Edit Brands",
+          "Brands > Cetaphil > All Cetaphil"
+        ],
+        "lvl3": [
+          "Shop by Department > Wellness > Vegan > Vegan Skincare",
+          "Offers > Buy 1 Get 1 Free > Shop All Buy 1 Get 1 Free"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:43a63a11-011f-47cc-8909-30dda2e499c6/as/SK-BZBTSLOCET68293_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-cetaphil-sun-spf50-gel-50ml",
+      "changed": 1791867573,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643730624,
+      "created": 1643730624,
+      "search_api_id": "BZBTSLOCET68293",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "50.0000",
+        "cart_title": "cetaphil sun spf50+ gel 50ml",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:43a63a11-011f-47cc-8909-30dda2e499c6/as/SK-BZBTSLOCET68293_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791867609,
+      "objectID": "BZBTSLOCET68293"
+    }
+  ],
+  "userData": [
+    {
+      "context": "default",
+      "facets_config": {
+        "final_price": {
+          "label": {
+            "en": "Price",
+            "ar": "السعر"
+          },
+          "widget": {
+            "type": "range_checkbox",
+            "config": {
+              "granularity": 5
+            }
+          },
+          "slug": "price"
+        },
+        "attr_size": {
+          "label": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "size"
+        },
+        "attr_color": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "color"
+        },
+        "attr_active_ingredients_lhn": {
+          "label": {
+            "en": "Active Ingredients",
+            "ar": "المكونات النشطة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "active_ingredients"
+        },
+        "attr_age_range": {
+          "label": {
+            "en": "Age Range",
+            "ar": "الفئة العمرية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "age_range"
+        },
+        "attr_barrel_size": {
+          "label": {
+            "en": "Barrel Size",
+            "ar": "حجم البرميل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "barrel_size"
+        },
+        "attr_body_area_lhn": {
+          "label": {
+            "en": "Body Area",
+            "ar": "منطقة الجسم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "body_area"
+        },
+        "attr_bottle_type": {
+          "label": {
+            "en": "Bottle Type",
+            "ar": "نوع الزجاجة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "bottle_type"
+        },
+        "attr_battery_type": {
+          "label": {
+            "en": "Battery Type",
+            "ar": "نوع البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_type"
+        },
+        "attr_brand": {
+          "label": {
+            "en": "Brand",
+            "ar": "العلامة التجارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand"
+        },
+        "attr_car_seat_category": {
+          "label": {
+            "en": "Car Seat Category",
+            "ar": "فئة مقعد السيارة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "car_seat_category"
+        },
+        "attr_color_family": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "swatch_list"
+          },
+          "slug": "color_family"
+        },
+        "attr_compatibility": {
+          "label": {
+            "en": "Compatibility",
+            "ar": "التوافق"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "compatibility"
+        },
+        "attr_condition": {
+          "label": {
+            "en": "Condition",
+            "ar": "الحالة الصحية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "condition"
+        },
+        "attr_denier": {
+          "label": {
+            "en": "Denier",
+            "ar": "دنييه"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "denier"
+        },
+        "attr_finish": {
+          "label": {
+            "en": "Finish",
+            "ar": "الطبقة الخارجية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "finish"
+        },
+        "attr_flavour": {
+          "label": {
+            "en": "Flavour",
+            "ar": "النكهة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "flavour"
+        },
+        "attr_format": {
+          "label": {
+            "en": "Format",
+            "ar": "التركيبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "format"
+        },
+        "attr_fragrance_scent": {
+          "label": {
+            "en": "Fragrance Scent",
+            "ar": "رائحة العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_scent"
+        },
+        "attr_fragrance_type": {
+          "label": {
+            "en": "Fragrance Type",
+            "ar": "نوع العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_type"
+        },
+        "attr_free_from": {
+          "label": {
+            "en": "Free From",
+            "ar": "خالي من"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "free_from"
+        },
+        "attr_gender": {
+          "label": {
+            "en": "Gender",
+            "ar": "الجنس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "gender"
+        },
+        "attr_hair_colour": {
+          "label": {
+            "en": "Hair Colour",
+            "ar": "لون الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_colour"
+        },
+        "attr_hair_type": {
+          "label": {
+            "en": "Hair Type",
+            "ar": "نوع الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_type"
+        },
+        "attr_ingredients_lhn": {
+          "label": {
+            "en": "Ingredients",
+            "ar": "المكونات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "ingredients"
+        },
+        "attr_key_features": {
+          "label": {
+            "en": "Key Features",
+            "ar": "مميزات المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "key_features"
+        },
+        "attr_lhn_group": {
+          "label": {
+            "en": "LHN Group",
+            "ar": "المجموعة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "group"
+        },
+        "attr_meal_type": {
+          "label": {
+            "en": "Meal Type",
+            "ar": "نوع الوجبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "meal_type"
+        },
+        "attr_nappy_type": {
+          "label": {
+            "en": "Nappy Type",
+            "ar": "نوع الحفاضة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "nappy_type"
+        },
+        "attr_number_of_wheels": {
+          "label": {
+            "en": "Number Of Wheels",
+            "ar": "عدد العجلات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "number_of_wheels"
+        },
+        "attr_pack_size": {
+          "label": {
+            "en": "Pack Size",
+            "ar": "حجم العبوة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "pack_size"
+        },
+        "attr_power": {
+          "label": {
+            "en": "Power",
+            "ar": "الطاقة الكهربائية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power"
+        },
+        "attr_power_source": {
+          "label": {
+            "en": "Power Source",
+            "ar": "مصدر الطاقة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power_source"
+        },
+        "attr_protection": {
+          "label": {
+            "en": "Protection",
+            "ar": "الحماية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "protection"
+        },
+        "attr_skin_type": {
+          "label": {
+            "en": "Skin Type",
+            "ar": "نوع البشرة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "skin_type"
+        },
+        "attr_specialist_milk": {
+          "label": {
+            "en": "Specialist Milk",
+            "ar": "حليب متخصص"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "specialist_milk"
+        },
+        "attr_suitable_for_lhn": {
+          "label": {
+            "en": "Suitable For",
+            "ar": "مناسب ل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_for"
+        },
+        "attr_suitable_from": {
+          "label": {
+            "en": "Suitable From",
+            "ar": "مناسب منذ"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_from"
+        },
+        "attr_teat_flow": {
+          "label": {
+            "en": "Teat Flow",
+            "ar": "تدفق الحلمة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "teat_flow"
+        },
+        "attr_brand_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand_category"
+        },
+        "attr_shop_by_collection": {
+          "label": {
+            "en": "Shop By Collection",
+            "ar": "تسوق حسب التشكيلة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "shop_by_collection"
+        },
+        "attr_product_type": {
+          "label": {
+            "en": "Product Type",
+            "ar": "نوع المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "product_type"
+        },
+        "attr_spf": {
+          "label": {
+            "en": "SPF",
+            "ar": "عامل الحماية من الشمس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "spf"
+        },
+        "attr_character": {
+          "label": {
+            "en": "Character",
+            "ar": "الشخصية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "character"
+        },
+        "attr_battery_size": {
+          "label": {
+            "en": "Battery Size",
+            "ar": "حجم البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_size"
+        },
+        "attr_delivery_ways": {
+          "label": {
+            "en": "Delivery Type",
+            "ar": "نوع التوصيل"
+          },
+          "widget": {
+            "type": "delivery_ways"
+          },
+          "slug": "delivery_ways",
+          "facet_values": {
+            "en": {
+              "same_day_delivery_available": "Same Day Delivery Available,same_day_delivery",
+              "express_day_delivery_available": "Express Delivery Available,express_delivery"
+            },
+            "ar": {
+              "same_day_delivery_available": "التوصيل في نفس اليوم متاح,same_day_delivery",
+              "express_day_delivery_available": "خدمة التوصيل السريع متوفرة,express_delivery"
+            }
+          }
+        },
+        "field_acq_promotion_label": {
+          "identifier": {
+            "en": "field_acq_promotion_label.web",
+            "ar": "field_acq_promotion_label.web"
+          },
+          "label": {
+            "en": "Promotions",
+            "ar": "العروض"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "promotions"
+        },
+        "field_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "hierarchy"
+          },
+          "slug": "category",
+          "lhn": true
+        }
+      },
+      "sorting_label": {
+        "en": "Sort by",
+        "ar": "رتب حسب"
+      },
+      "sorting_options": [
+        "default",
+        "title_asc",
+        "title_desc",
+        "final_price_desc",
+        "final_price_asc",
+        "created_desc"
+      ],
+      "sorting_options_config": {
+        "default": {
+          "index": {
+            "en": "bp_prod_sa_en",
+            "ar": "bp_prod_sa_ar"
+          },
+          "label": {
+            "en": "Recommended",
+            "ar": "ما ننصح به"
+          }
+        },
+        "title_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_asc",
+            "ar": "bp_prod_sa_ar_title_asc"
+          },
+          "label": {
+            "en": "Name A To Z",
+            "ar": "الاسم من أ إلى ي"
+          }
+        },
+        "title_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_desc",
+            "ar": "bp_prod_sa_ar_title_desc"
+          },
+          "label": {
+            "en": "Name Z To A",
+            "ar": "الاسم من ي إلى أ"
+          }
+        },
+        "final_price_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_desc",
+            "ar": "bp_prod_sa_ar_final_price_desc"
+          },
+          "label": {
+            "en": "Price high to low",
+            "ar": "السعر من الأعلى إلى الأدنى"
+          }
+        },
+        "final_price_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_asc",
+            "ar": "bp_prod_sa_ar_final_price_asc"
+          },
+          "label": {
+            "en": "Price low to high",
+            "ar": "السعر من الأدنى إلى الأعلى"
+          }
+        },
+        "created_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_created_desc",
+            "ar": "bp_prod_sa_ar_created_desc"
+          },
+          "label": {
+            "en": "New In",
+            "ar": "جديدنا"
+          }
+        }
+      }
+    }
+  ],
+  "nbHits": 24,
+  "page": 0,
+  "nbPages": 5,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "Cetaphil",
+  "params": "query=Cetaphil&hitsPerPage=5&filters=%22final_price%22%3E%3D0.01+AND+%22discount%22%3C%3D95",
+  "queryID": "788585471ae62152d46b5d881e439520",
+  "_automaticInsights": true,
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": [
+          "attr_bv_rating",
+          "final_price",
+          "attr_brand",
+          "field_acq_promotion_label.web",
+          "attr_active_ingredients_lhn",
+          "attr_size",
+          "attr_skin_type",
+          "attr_spf",
+          "attr_suitable_for_lhn",
+          "attr_suitable_from",
+          "attr_condition",
+          "attr_finish",
+          "attr_flavour",
+          "attr_format",
+          "attr_fragrance_scent",
+          "attr_free_from",
+          "attr_gender",
+          "attr_key_features",
+          "attr_body_area_lhn",
+          "attr_brand_category",
+          "attr_product_type",
+          "attr_color_family",
+          "attr_color_family.value",
+          "attr_hair_type",
+          "attr_power_source",
+          "field_category",
+          "field_category.lvl0",
+          "field_category.lvl1",
+          "field_category.lvl2",
+          "field_category_name",
+          "field_category_name.lvl0",
+          "field_category_name.lvl1",
+          "field_category_name.lvl2",
+          "lhn_category",
+          "lhn_category.lvl0",
+          "lhn_category.lvl1",
+          "lhn_category.lvl2"
+        ]
+      },
+      "values": {
+        "attr_active_ingredients_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_body_area_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_brand": {
+          "sortRemainingBy": "alpha"
+        },
+        "attr_brand_category": {
+          "sortRemainingBy": "count"
+        },
+        "attr_bv_rating": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family.value": {
+          "sortRemainingBy": "count"
+        },
+        "attr_condition": {
+          "sortRemainingBy": "count"
+        },
+        "attr_finish": {
+          "sortRemainingBy": "count"
+        },
+        "attr_flavour": {
+          "sortRemainingBy": "count"
+        },
+        "attr_format": {
+          "sortRemainingBy": "count"
+        },
+        "attr_fragrance_scent": {
+          "sortRemainingBy": "count"
+        },
+        "attr_free_from": {
+          "sortRemainingBy": "count"
+        },
+        "attr_gender": {
+          "sortRemainingBy": "count"
+        },
+        "attr_hair_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_key_features": {
+          "sortRemainingBy": "count"
+        },
+        "attr_power_source": {
+          "sortRemainingBy": "count"
+        },
+        "attr_product_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_size": {
+          "sortRemainingBy": "count"
+        },
+        "attr_skin_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_spf": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_for_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_from": {
+          "sortRemainingBy": "count"
+        },
+        "field_acq_promotion_label.web": {
+          "sortRemainingBy": "count"
+        },
+        "field_category": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "final_price": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl2": {
+          "sortRemainingBy": "count"
+        }
+      }
+    }
+  },
+  "processingTimeMS": 1,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 70
+    },
+    "extensions": 1,
+    "total": 1
+  },
+  "serverTimeMS": 2
+}

@@ -1,0 +1,763 @@
+{
+  "hits": [],
+  "userData": [
+    {
+      "context": "default",
+      "facets_config": {
+        "final_price": {
+          "label": {
+            "en": "Price",
+            "ar": "السعر"
+          },
+          "widget": {
+            "type": "range_checkbox",
+            "config": {
+              "granularity": 5
+            }
+          },
+          "slug": "price"
+        },
+        "attr_size": {
+          "label": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "size"
+        },
+        "attr_color": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "color"
+        },
+        "attr_active_ingredients_lhn": {
+          "label": {
+            "en": "Active Ingredients",
+            "ar": "المكونات النشطة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "active_ingredients"
+        },
+        "attr_age_range": {
+          "label": {
+            "en": "Age Range",
+            "ar": "الفئة العمرية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "age_range"
+        },
+        "attr_barrel_size": {
+          "label": {
+            "en": "Barrel Size",
+            "ar": "حجم البرميل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "barrel_size"
+        },
+        "attr_body_area_lhn": {
+          "label": {
+            "en": "Body Area",
+            "ar": "منطقة الجسم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "body_area"
+        },
+        "attr_bottle_type": {
+          "label": {
+            "en": "Bottle Type",
+            "ar": "نوع الزجاجة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "bottle_type"
+        },
+        "attr_battery_type": {
+          "label": {
+            "en": "Battery Type",
+            "ar": "نوع البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_type"
+        },
+        "attr_brand": {
+          "label": {
+            "en": "Brand",
+            "ar": "العلامة التجارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand"
+        },
+        "attr_car_seat_category": {
+          "label": {
+            "en": "Car Seat Category",
+            "ar": "فئة مقعد السيارة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "car_seat_category"
+        },
+        "attr_color_family": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "swatch_list"
+          },
+          "slug": "color_family"
+        },
+        "attr_compatibility": {
+          "label": {
+            "en": "Compatibility",
+            "ar": "التوافق"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "compatibility"
+        },
+        "attr_condition": {
+          "label": {
+            "en": "Condition",
+            "ar": "الحالة الصحية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "condition"
+        },
+        "attr_denier": {
+          "label": {
+            "en": "Denier",
+            "ar": "دنييه"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "denier"
+        },
+        "attr_finish": {
+          "label": {
+            "en": "Finish",
+            "ar": "الطبقة الخارجية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "finish"
+        },
+        "attr_flavour": {
+          "label": {
+            "en": "Flavour",
+            "ar": "النكهة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "flavour"
+        },
+        "attr_format": {
+          "label": {
+            "en": "Format",
+            "ar": "التركيبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "format"
+        },
+        "attr_fragrance_scent": {
+          "label": {
+            "en": "Fragrance Scent",
+            "ar": "رائحة العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_scent"
+        },
+        "attr_fragrance_type": {
+          "label": {
+            "en": "Fragrance Type",
+            "ar": "نوع العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_type"
+        },
+        "attr_free_from": {
+          "label": {
+            "en": "Free From",
+            "ar": "خالي من"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "free_from"
+        },
+        "attr_gender": {
+          "label": {
+            "en": "Gender",
+            "ar": "الجنس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "gender"
+        },
+        "attr_hair_colour": {
+          "label": {
+            "en": "Hair Colour",
+            "ar": "لون الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_colour"
+        },
+        "attr_hair_type": {
+          "label": {
+            "en": "Hair Type",
+            "ar": "نوع الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_type"
+        },
+        "attr_ingredients_lhn": {
+          "label": {
+            "en": "Ingredients",
+            "ar": "المكونات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "ingredients"
+        },
+        "attr_key_features": {
+          "label": {
+            "en": "Key Features",
+            "ar": "مميزات المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "key_features"
+        },
+        "attr_lhn_group": {
+          "label": {
+            "en": "LHN Group",
+            "ar": "المجموعة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "group"
+        },
+        "attr_meal_type": {
+          "label": {
+            "en": "Meal Type",
+            "ar": "نوع الوجبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "meal_type"
+        },
+        "attr_nappy_type": {
+          "label": {
+            "en": "Nappy Type",
+            "ar": "نوع الحفاضة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "nappy_type"
+        },
+        "attr_number_of_wheels": {
+          "label": {
+            "en": "Number Of Wheels",
+            "ar": "عدد العجلات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "number_of_wheels"
+        },
+        "attr_pack_size": {
+          "label": {
+            "en": "Pack Size",
+            "ar": "حجم العبوة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "pack_size"
+        },
+        "attr_power": {
+          "label": {
+            "en": "Power",
+            "ar": "الطاقة الكهربائية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power"
+        },
+        "attr_power_source": {
+          "label": {
+            "en": "Power Source",
+            "ar": "مصدر الطاقة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power_source"
+        },
+        "attr_protection": {
+          "label": {
+            "en": "Protection",
+            "ar": "الحماية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "protection"
+        },
+        "attr_skin_type": {
+          "label": {
+            "en": "Skin Type",
+            "ar": "نوع البشرة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "skin_type"
+        },
+        "attr_specialist_milk": {
+          "label": {
+            "en": "Specialist Milk",
+            "ar": "حليب متخصص"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "specialist_milk"
+        },
+        "attr_suitable_for_lhn": {
+          "label": {
+            "en": "Suitable For",
+            "ar": "مناسب ل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_for"
+        },
+        "attr_suitable_from": {
+          "label": {
+            "en": "Suitable From",
+            "ar": "مناسب منذ"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_from"
+        },
+        "attr_teat_flow": {
+          "label": {
+            "en": "Teat Flow",
+            "ar": "تدفق الحلمة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "teat_flow"
+        },
+        "attr_brand_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand_category"
+        },
+        "attr_shop_by_collection": {
+          "label": {
+            "en": "Shop By Collection",
+            "ar": "تسوق حسب التشكيلة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "shop_by_collection"
+        },
+        "attr_product_type": {
+          "label": {
+            "en": "Product Type",
+            "ar": "نوع المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "product_type"
+        },
+        "attr_spf": {
+          "label": {
+            "en": "SPF",
+            "ar": "عامل الحماية من الشمس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "spf"
+        },
+        "attr_character": {
+          "label": {
+            "en": "Character",
+            "ar": "الشخصية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "character"
+        },
+        "attr_battery_size": {
+          "label": {
+            "en": "Battery Size",
+            "ar": "حجم البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_size"
+        },
+        "attr_delivery_ways": {
+          "label": {
+            "en": "Delivery Type",
+            "ar": "نوع التوصيل"
+          },
+          "widget": {
+            "type": "delivery_ways"
+          },
+          "slug": "delivery_ways",
+          "facet_values": {
+            "en": {
+              "same_day_delivery_available": "Same Day Delivery Available,same_day_delivery",
+              "express_day_delivery_available": "Express Delivery Available,express_delivery"
+            },
+            "ar": {
+              "same_day_delivery_available": "التوصيل في نفس اليوم متاح,same_day_delivery",
+              "express_day_delivery_available": "خدمة التوصيل السريع متوفرة,express_delivery"
+            }
+          }
+        },
+        "field_acq_promotion_label": {
+          "identifier": {
+            "en": "field_acq_promotion_label.web",
+            "ar": "field_acq_promotion_label.web"
+          },
+          "label": {
+            "en": "Promotions",
+            "ar": "العروض"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "promotions"
+        },
+        "field_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "hierarchy"
+          },
+          "slug": "category",
+          "lhn": true
+        }
+      },
+      "sorting_label": {
+        "en": "Sort by",
+        "ar": "رتب حسب"
+      },
+      "sorting_options": [
+        "default",
+        "title_asc",
+        "title_desc",
+        "final_price_desc",
+        "final_price_asc",
+        "created_desc"
+      ],
+      "sorting_options_config": {
+        "default": {
+          "index": {
+            "en": "bp_prod_sa_en",
+            "ar": "bp_prod_sa_ar"
+          },
+          "label": {
+            "en": "Recommended",
+            "ar": "ما ننصح به"
+          }
+        },
+        "title_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_asc",
+            "ar": "bp_prod_sa_ar_title_asc"
+          },
+          "label": {
+            "en": "Name A To Z",
+            "ar": "الاسم من أ إلى ي"
+          }
+        },
+        "title_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_desc",
+            "ar": "bp_prod_sa_ar_title_desc"
+          },
+          "label": {
+            "en": "Name Z To A",
+            "ar": "الاسم من ي إلى أ"
+          }
+        },
+        "final_price_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_desc",
+            "ar": "bp_prod_sa_ar_final_price_desc"
+          },
+          "label": {
+            "en": "Price high to low",
+            "ar": "السعر من الأعلى إلى الأدنى"
+          }
+        },
+        "final_price_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_asc",
+            "ar": "bp_prod_sa_ar_final_price_asc"
+          },
+          "label": {
+            "en": "Price low to high",
+            "ar": "السعر من الأدنى إلى الأعلى"
+          }
+        },
+        "created_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_created_desc",
+            "ar": "bp_prod_sa_ar_created_desc"
+          },
+          "label": {
+            "en": "New In",
+            "ar": "جديدنا"
+          }
+        }
+      }
+    }
+  ],
+  "nbHits": 0,
+  "page": 0,
+  "nbPages": 0,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "9650383001111",
+  "params": "query=9650383001111&hitsPerPage=5&filters=%22final_price%22%3E%3D0.01+AND+%22discount%22%3C%3D95",
+  "queryID": "26a911ebfff9141f141bbadfbe8e8069",
+  "_automaticInsights": true,
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": [
+          "attr_bv_rating",
+          "final_price",
+          "attr_brand",
+          "field_acq_promotion_label.web",
+          "attr_active_ingredients_lhn",
+          "attr_size",
+          "attr_skin_type",
+          "attr_spf",
+          "attr_suitable_for_lhn",
+          "attr_suitable_from",
+          "attr_condition",
+          "attr_finish",
+          "attr_flavour",
+          "attr_format",
+          "attr_fragrance_scent",
+          "attr_free_from",
+          "attr_gender",
+          "attr_key_features",
+          "attr_body_area_lhn",
+          "attr_brand_category",
+          "attr_product_type",
+          "attr_color_family",
+          "attr_color_family.value",
+          "attr_hair_type",
+          "attr_power_source",
+          "field_category",
+          "field_category.lvl0",
+          "field_category.lvl1",
+          "field_category.lvl2",
+          "field_category_name",
+          "field_category_name.lvl0",
+          "field_category_name.lvl1",
+          "field_category_name.lvl2",
+          "lhn_category",
+          "lhn_category.lvl0",
+          "lhn_category.lvl1",
+          "lhn_category.lvl2"
+        ]
+      },
+      "values": {
+        "attr_active_ingredients_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_body_area_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_brand": {
+          "sortRemainingBy": "alpha"
+        },
+        "attr_brand_category": {
+          "sortRemainingBy": "count"
+        },
+        "attr_bv_rating": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family.value": {
+          "sortRemainingBy": "count"
+        },
+        "attr_condition": {
+          "sortRemainingBy": "count"
+        },
+        "attr_finish": {
+          "sortRemainingBy": "count"
+        },
+        "attr_flavour": {
+          "sortRemainingBy": "count"
+        },
+        "attr_format": {
+          "sortRemainingBy": "count"
+        },
+        "attr_fragrance_scent": {
+          "sortRemainingBy": "count"
+        },
+        "attr_free_from": {
+          "sortRemainingBy": "count"
+        },
+        "attr_gender": {
+          "sortRemainingBy": "count"
+        },
+        "attr_hair_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_key_features": {
+          "sortRemainingBy": "count"
+        },
+        "attr_power_source": {
+          "sortRemainingBy": "count"
+        },
+        "attr_product_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_size": {
+          "sortRemainingBy": "count"
+        },
+        "attr_skin_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_spf": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_for_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_from": {
+          "sortRemainingBy": "count"
+        },
+        "field_acq_promotion_label.web": {
+          "sortRemainingBy": "count"
+        },
+        "field_category": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "final_price": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl2": {
+          "sortRemainingBy": "count"
+        }
+      }
+    }
+  },
+  "processingTimeMS": 1,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 70
+    },
+    "extensions": 1,
+    "total": 1
+  },
+  "serverTimeMS": 1
+}

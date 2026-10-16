@@ -1,0 +1,1641 @@
+{
+  "hits": [
+    {
+      "name": "Cetaphil Moisturizing Cream 453Gm",
+      "url": "https://unitedpharmacy.sa/en/cetaphil-moist-cream-jar-453-gm.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Brand",
+          "Skin Moisturizer Offers",
+          "Get Extra Discount 15%",
+          "Daily Essentials Offers",
+          "Magazine Shop",
+          "Best Selling",
+          "Skin Care",
+          "hajj & Umrah Products"
+        ],
+        "level1": [
+          "Brand /// Cetaphil",
+          "Magazine Shop /// Magazine Skin Care",
+          "Skin Care /// Skin Care Enhancement"
+        ],
+        "level2": [
+          "Skin Care /// Skin Care Enhancement /// Face Cream"
+        ],
+        "level3": [
+          "Skin Care /// Skin Care Enhancement /// Face Cream /// Moisturising Face Cream"
+        ]
+      },
+      "categories_without_path": [
+        "Cetaphil",
+        "Skin Moisturizer Offers",
+        "Get Extra Discount 15%",
+        "Daily Essentials Offers",
+        "Magazine Skin Care",
+        "Best Selling",
+        "Skin Care",
+        "hajj & Umrah Products",
+        "Moisturising Face Cream"
+      ],
+      "categoryIds": [
+        "6359",
+        "4591",
+        "4998",
+        "5177",
+        "5331",
+        "558",
+        "559",
+        "5022",
+        "470",
+        "941",
+        "6167",
+        "6077",
+        "6117"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil-moist-cream-jar-453-gm.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil-moist-cream-jar-453-gm.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "201884",
+      "meta_title": "Cetaphil Moisturizing Cream 453Gm",
+      "price": {
+        "SAR": {
+          "default": 197.8,
+          "default_formated": "197.80",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Cetaphil",
+      "offer_start_date": "2026-09-25 00:00:00",
+      "offer_end_date": "2026-09-26 03:00:00",
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [
+        {
+          "customer_group_id": 0,
+          "label_en": "Only 75 sar",
+          "label_ar": "فقط ٧٥ ريال",
+          "start_date": "2026-09-28 00:36:00",
+          "end_date": "2026-09-28 23:59:00"
+        },
+        {
+          "customer_group_id": 1,
+          "label_en": "Only 75 sar",
+          "label_ar": "فقط ٧٥ ريال",
+          "start_date": "2026-09-28 00:36:00",
+          "end_date": "2026-09-28 23:59:00"
+        },
+        {
+          "customer_group_id": 32000,
+          "label_en": "Only 75 sar",
+          "label_ar": "فقط ٧٥ ريال",
+          "start_date": "2026-09-28 00:36:00",
+          "end_date": "2026-09-28 23:59:00"
+        }
+      ],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "allow_cities": [],
+      "app_sku": [
+        "201884"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "سيتافيل كريم مرطب 453 جم",
+      "name_locally_en": "Cetaphil Moisturizing Cream 453Gm",
+      "name_locally_sar": "Cetaphil Moisturizing Cream Jar 453g",
+      "name_locally_sen": "Cetaphil Moisturizing Cream Jar 453g",
+      "algoliaLastUpdateAtCET": "2026-10-13 20:20:15",
+      "objectID": "8378",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 453Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Moisturizer Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Get Extra Discount 15%",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Daily Essentials Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Magazine Shop",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Best Selling",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Brand /// <em>Cetaphil</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "cetaphil"
+              ]
+            },
+            {
+              "value": "Magazine Shop /// Magazine Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care /// Skin Care Enhancement",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Skin Care /// Skin Care Enhancement /// Face Cream",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level3": [
+            {
+              "value": "Skin Care /// Skin Care Enhancement /// Face Cream /// Moisturising Face Cream",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "<em>Cetaphil</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "cetaphil"
+            ]
+          },
+          {
+            "value": "Skin Moisturizer Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Get Extra Discount 15%",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Daily Essentials Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Magazine Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Best Selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Moisturising Face Cream",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "201884",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 453Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "سيتافيل كريم مرطب 453 جم",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 453Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cetaphil Moisturizing Cream 100Gm",
+      "url": "https://unitedpharmacy.sa/en/cetaphil-moisturizing-cream-face-body-100-gm.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Brand",
+          "Buy 2 Pieces To Get 15% Extra Discount",
+          "Daily Essentials Offers",
+          "Magazine Shop",
+          "Skin Moisturizer Offers",
+          "Skin Care",
+          "hajj & Umrah Products"
+        ],
+        "level1": [
+          "Brand /// Cetaphil",
+          "Magazine Shop /// Magazine Skin Care",
+          "Skin Care /// Skin Care Enhancement"
+        ],
+        "level2": [
+          "Skin Care /// Skin Care Enhancement /// Face Cream"
+        ],
+        "level3": [
+          "Skin Care /// Skin Care Enhancement /// Face Cream /// Moisturising Face Cream"
+        ]
+      },
+      "categories_without_path": [
+        "Cetaphil",
+        "Buy 2 Pieces To Get 15% Extra Discount",
+        "Daily Essentials Offers",
+        "Magazine Skin Care",
+        "Skin Moisturizer Offers",
+        "Skin Care",
+        "hajj & Umrah Products",
+        "Moisturising Face Cream"
+      ],
+      "categoryIds": [
+        "6359",
+        "4591",
+        "5179",
+        "5331",
+        "558",
+        "559",
+        "4998",
+        "470",
+        "941",
+        "6167",
+        "6077",
+        "6117"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil_moisturizing_cream_face_body_100_gm.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil_moisturizing_cream_face_body_100_gm.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "201882",
+      "meta_title": "Cetaphil Moisturizing Cream 100Gm",
+      "price": {
+        "SAR": {
+          "default": 102.35,
+          "default_formated": "102.35",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Cetaphil",
+      "offer_start_date": "2026-09-24 00:00:00",
+      "offer_end_date": "2026-09-30 23:59:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Umluj",
+        "Tubarjal",
+        "Al-Qahma",
+        "Saihat",
+        "Baljurashi",
+        "Al-Darb",
+        "Al-Badayea",
+        "Al-Qouz",
+        "Abu Arish",
+        "Abqaiq",
+        "Al-Aridhah",
+        "Yanbu",
+        "Ahad Rofida",
+        "Al-Muzaylif",
+        "Tabuk",
+        "Al-Majmaah",
+        "Mahayel asir",
+        "AL-Qunfudhah",
+        "Turaif",
+        "Al-Haqu",
+        "Al-Qatif",
+        "Ranyah",
+        "Rafha",
+        "Uyun Al-Jawa",
+        "Samtah",
+        "Anak",
+        "Turubah",
+        "Al-Baha",
+        "Al-Zulfi",
+        "Khamis Mushait",
+        "Al-Hofuf",
+        "Hail",
+        "Abha",
+        "Jizan",
+        "Hafar Al-Batin",
+        "Al-Khobar",
+        "Bisha",
+        "Buraydah",
+        "Unayzah",
+        "Arar",
+        "Baqaa",
+        "Al-Ahsa",
+        "Al-Rass",
+        "Najran",
+        "Farasan Island",
+        "Al-Nuairyah",
+        "Jubail"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [
+        {
+          "customer_group_id": 0,
+          "label_en": "30% Off",
+          "label_ar": "وفر 30%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        },
+        {
+          "customer_group_id": 1,
+          "label_en": "30% Off",
+          "label_ar": "وفر 30%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        }
+      ],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "201882"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "سيتافيل كريم مرطب 100جم",
+      "name_locally_en": "Cetaphil Moisturizing Cream 100Gm",
+      "name_locally_sar": "Cetaphil Moisturizing Cream Face & Body 100 gm",
+      "name_locally_sen": "Cetaphil Moisturizing Cream Face & Body 100 gm",
+      "algoliaLastUpdateAtCET": "2026-10-13 00:35:08",
+      "objectID": "8377",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 100Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Buy 2 Pieces To Get 15% Extra Discount",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Daily Essentials Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Magazine Shop",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Moisturizer Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Brand /// <em>Cetaphil</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "cetaphil"
+              ]
+            },
+            {
+              "value": "Magazine Shop /// Magazine Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care /// Skin Care Enhancement",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Skin Care /// Skin Care Enhancement /// Face Cream",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level3": [
+            {
+              "value": "Skin Care /// Skin Care Enhancement /// Face Cream /// Moisturising Face Cream",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "<em>Cetaphil</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "cetaphil"
+            ]
+          },
+          {
+            "value": "Buy 2 Pieces To Get 15% Extra Discount",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Daily Essentials Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Magazine Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Moisturizer Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Moisturising Face Cream",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "201882",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 100Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "سيتافيل كريم مرطب 100جم",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Cetaphil</em> Moisturizing Cream 100Gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cetaphil Gentle Cleansing Bar 127 gm",
+      "url": "https://unitedpharmacy.sa/en/cetaphil-gentle-cleansing-bar-hypoallergenic-4-5-ounce.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Brand",
+          "Buy 2 Pieces To Get 15% Extra Discount",
+          "Magazine Shop",
+          "skin brand",
+          "Skin Care",
+          "Personal Care"
+        ],
+        "level1": [
+          "Brand /// Cetaphil",
+          "Magazine Shop /// Magazine Skin Care",
+          "Personal Care /// Body Care"
+        ],
+        "level2": [
+          "Personal Care /// Body Care /// Soap Bar"
+        ]
+      },
+      "categories_without_path": [
+        "Cetaphil",
+        "Buy 2 Pieces To Get 15% Extra Discount",
+        "Magazine Skin Care",
+        "skin brand",
+        "Skin Care",
+        "Soap Bar"
+      ],
+      "categoryIds": [
+        "6359",
+        "4591",
+        "5179",
+        "558",
+        "559",
+        "5535",
+        "470",
+        "287",
+        "288",
+        "396"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/s/o/so-tm-203_1.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/s/o/so-tm-203_1.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "201872",
+      "price": {
+        "SAR": {
+          "default": 43.7,
+          "default_formated": "43.70",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Cetaphil",
+      "offer_start_date": "2026-10-02 00:00:00",
+      "offer_end_date": "2026-10-03 03:00:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Jubail",
+        "Al-Mubarraz",
+        "Tubarjal",
+        "Sharurah",
+        "Al-Henakiyah",
+        "Al-Badayea",
+        "Bareq",
+        "Ahad Al-Masarihah",
+        "Al-Mandaq",
+        "Al-Qahma",
+        "Saihat",
+        "Al-Qouz",
+        "Al-Hait",
+        "Al-Haqu",
+        "Sarat Ebidah",
+        "Al-Muzaylif",
+        "Badr - Madinah Region",
+        "Tathleeth",
+        "Ranyah",
+        "KAUST",
+        "Mahd Al-Thahab",
+        "Namerah",
+        "Abu Arish",
+        "Al-Darb",
+        "Anak",
+        "Umluj",
+        "Al-Qurayyat",
+        "Yanbu",
+        "Rabigh",
+        "Al-Zulfi",
+        "Sakaka",
+        "Turaif",
+        "Sabya",
+        "Khamis Mushait",
+        "Bisha",
+        "Hail",
+        "Jizan",
+        "Buraydah",
+        "Al-Khobar",
+        "Al-Baha",
+        "Al-Hofuf",
+        "Ahad Rofida",
+        "Farasan Island",
+        "Najran",
+        "Samtah",
+        "Unayzah",
+        "Al-Namas",
+        "Baqaa",
+        "Rafha",
+        "Hafar Al-Batin",
+        "Arar",
+        "Al-Nuairyah",
+        "Mahayel asir",
+        "Al-Makhwah",
+        "Al-Aridhah",
+        "Tayma",
+        "Duba",
+        "Baljurashi",
+        "Tabuk",
+        "Abha",
+        "Balqarn",
+        "Al-Qatif",
+        "Al-Majardah",
+        "Al-Majmaah",
+        "Turubah",
+        "Al-Wajh",
+        "Al-Jumum",
+        "Khulais",
+        "Al-Khurma",
+        "Uyun Al-Jawa",
+        "Al-Khafji",
+        "Al-Kharj",
+        "Abqaiq",
+        "Al-Aqiq",
+        "Al-Rass",
+        "AL-Qunfudhah"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [
+        {
+          "customer_group_id": 0,
+          "label_en": "Only 25 SAR",
+          "label_ar": "فقط 25 ريال",
+          "start_date": "2026-10-02 00:00:00",
+          "end_date": "2026-10-03 03:00:00"
+        },
+        {
+          "customer_group_id": 1,
+          "label_en": "Only 25 SAR",
+          "label_ar": "فقط 25 ريال",
+          "start_date": "2026-10-02 00:00:00",
+          "end_date": "2026-10-03 03:00:00"
+        }
+      ],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "201872"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "سيتافيل صابون منظف لطيف للبشرة قطعة 127 جم",
+      "name_locally_en": "Cetaphil Gentle Cleansing Bar 127 gm",
+      "name_locally_sar": "Cetaphil Gentle Cleansing Bar 127 gm",
+      "name_locally_sen": "Cetaphil Gentle Cleansing Bar 127 gm",
+      "algoliaLastUpdateAtCET": "2026-10-12 17:10:25",
+      "objectID": "9560",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Cetaphil</em> Gentle Cleansing Bar 127 gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Buy 2 Pieces To Get 15% Extra Discount",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Magazine Shop",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "skin brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Personal Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Brand /// <em>Cetaphil</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "cetaphil"
+              ]
+            },
+            {
+              "value": "Magazine Shop /// Magazine Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Personal Care /// Body Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Personal Care /// Body Care /// Soap Bar",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "<em>Cetaphil</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "cetaphil"
+            ]
+          },
+          {
+            "value": "Buy 2 Pieces To Get 15% Extra Discount",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Magazine Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "skin brand",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Soap Bar",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "201872",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_ar": {
+          "value": "سيتافيل صابون منظف لطيف للبشرة قطعة 127 جم",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Cetaphil</em> Gentle Cleansing Bar 127 gm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cetaphil Moisturizer Lotion 500Ml",
+      "url": "https://unitedpharmacy.sa/en/cetaphil-moisturising-lotion-500-ml.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Brand",
+          "Skin Moisturizer Offers",
+          "Get Extra Discount 15%",
+          "Daily Essentials Offers",
+          "Magazine Shop",
+          "Skin Care",
+          "hajj & Umrah Products"
+        ],
+        "level1": [
+          "Brand /// Cetaphil",
+          "Magazine Shop /// Magazine Skin Care"
+        ]
+      },
+      "categories_without_path": [
+        "Cetaphil",
+        "Skin Moisturizer Offers",
+        "Get Extra Discount 15%",
+        "Daily Essentials Offers",
+        "Magazine Skin Care",
+        "Skin Care",
+        "hajj & Umrah Products"
+      ],
+      "categoryIds": [
+        "6359",
+        "4591",
+        "4998",
+        "5177",
+        "5331",
+        "558",
+        "559",
+        "470",
+        "941"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil-moisturising-lotion-500-ml.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil-moisturising-lotion-500-ml.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "201880",
+      "meta_title": "Cetaphil Moisturizer Lotion 500Ml",
+      "price": {
+        "SAR": {
+          "default": 167.9,
+          "default_formated": "167.90",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Cetaphil",
+      "offer_start_date": "2026-09-18 00:00:00",
+      "offer_end_date": "2026-09-30 23:59:00",
+      "allow_cities": [
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Al-Wajh",
+        "Al-Kharj",
+        "Sabya",
+        "Farasan Island",
+        "Al-Darb",
+        "Al-Aqiq",
+        "Al-Hofuf",
+        "Arar",
+        "AL-Qunfudhah",
+        "Hail",
+        "Al-Baha",
+        "Bisha",
+        "KAUST",
+        "Baljurashi",
+        "Al-Aridhah",
+        "Al-Mubarraz",
+        "Al-Makhwah",
+        "Al-Qahma",
+        "Yanbu",
+        "Al-Qatif",
+        "Khulais",
+        "Samtah",
+        "Tayma",
+        "Baqaa",
+        "Sakaka",
+        "Ahad Rofida",
+        "Al-Khobar",
+        "Najran",
+        "Buraydah",
+        "Jizan",
+        "Balqarn",
+        "Khamis Mushait",
+        "Mahayel asir",
+        "Unayzah"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [
+        {
+          "customer_group_id": 0,
+          "label_en": "40% Off",
+          "label_ar": "وفر 40%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        },
+        {
+          "customer_group_id": 1,
+          "label_en": "40% Off",
+          "label_ar": "وفر 40%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        }
+      ],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "201880"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "سيتافيل لوشن مرطب 500 مل",
+      "name_locally_en": "Cetaphil Moisturizer Lotion 500Ml",
+      "name_locally_sar": "Cetaphil Moisturising Lotion 500 ml",
+      "name_locally_sen": "Cetaphil Moisturising Lotion 500 ml",
+      "algoliaLastUpdateAtCET": "2026-10-12 02:15:14",
+      "objectID": "8387",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Cetaphil</em> Moisturizer Lotion 500Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Moisturizer Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Get Extra Discount 15%",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Daily Essentials Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Magazine Shop",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Brand /// <em>Cetaphil</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "cetaphil"
+              ]
+            },
+            {
+              "value": "Magazine Shop /// Magazine Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "<em>Cetaphil</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "cetaphil"
+            ]
+          },
+          {
+            "value": "Skin Moisturizer Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Get Extra Discount 15%",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Daily Essentials Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Magazine Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "201880",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>Cetaphil</em> Moisturizer Lotion 500Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "سيتافيل لوشن مرطب 500 مل",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Cetaphil</em> Moisturizer Lotion 500Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cetaphil Oily Skin Cleanser 236Ml",
+      "url": "https://unitedpharmacy.sa/en/cetaphil-moisturising-lotion-118-ml.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Brand",
+          "Buy 2 Pieces To Get 15% Extra Discount",
+          "Best Seller",
+          "Daily Essentials Offers",
+          "Magazine Shop",
+          "Face Wash Offers",
+          "Skin Care",
+          "hajj & Umrah Products"
+        ],
+        "level1": [
+          "Brand /// Cetaphil",
+          "Magazine Shop /// Magazine Skin Care",
+          "Skin Care /// Purifying & Makeup Removal"
+        ],
+        "level2": [
+          "Skin Care /// Purifying & Makeup Removal /// Face Cleanser"
+        ],
+        "level3": [
+          "Skin Care /// Purifying & Makeup Removal /// Face Cleanser /// Acne & Blemish Cleanser",
+          "Skin Care /// Purifying & Makeup Removal /// Face Cleanser /// Oily Skin Cleanser"
+        ]
+      },
+      "categories_without_path": [
+        "Cetaphil",
+        "Buy 2 Pieces To Get 15% Extra Discount",
+        "Best Seller",
+        "Daily Essentials Offers",
+        "Magazine Skin Care",
+        "Face Wash Offers",
+        "Skin Care",
+        "Acne & Blemish Cleanser",
+        "Oily Skin Cleanser",
+        "hajj & Umrah Products"
+      ],
+      "categoryIds": [
+        "6359",
+        "4591",
+        "5179",
+        "5255",
+        "5331",
+        "558",
+        "559",
+        "5094",
+        "470",
+        "6166",
+        "6073",
+        "6091",
+        "6088",
+        "941"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil_oily_skin_cleanser_236_ml.jpg?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/c/e/cetaphil_oily_skin_cleanser_236_ml.jpg?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "201888",
+      "meta_title": "Cetaphil Oily Skin Cleanser 236Ml",
+      "price": {
+        "SAR": {
+          "default": 112.7,
+          "default_formated": "112.70",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Cetaphil",
+      "offer_start_date": "2026-09-18 00:00:00",
+      "offer_end_date": "2026-09-30 23:59:00",
+      "allow_cities": [
+        "Abha",
+        "Ahad Rofida",
+        "Al-Majardah",
+        "Al-Namas",
+        "Al-Qahma",
+        "AL-Qunfudhah",
+        "Bisha",
+        "Khamis Mushait",
+        "Mahayel asir",
+        "Sarat Ebidah",
+        "Tathleeth",
+        "Al-Aqiq",
+        "Al-Baha",
+        "Al-Makhwah",
+        "Al-Mandaq",
+        "Al-Muzaylif",
+        "Al-Qouz",
+        "Baljurashi",
+        "Balqarn",
+        "Namerah",
+        "Abqaiq",
+        "Al-Ahsa",
+        "Al-Hofuf",
+        "Al-Khafji",
+        "Al-Khobar",
+        "Al-Mubarraz",
+        "Al-Nuairyah",
+        "Al-Qatif",
+        "Anak",
+        "Dammam",
+        "Hafar Al-Batin",
+        "Jubail",
+        "Saihat",
+        "Al-Hait",
+        "Hail",
+        "Abu Arish",
+        "Al-Aridhah",
+        "Al-Darb",
+        "Al-Haqu",
+        "Farasan Island",
+        "Jizan",
+        "Sabya",
+        "Samtah",
+        "Al-Henakiyah",
+        "AL-Madina",
+        "Badr - Madinah Region",
+        "Mahd Al-Thahab",
+        "Yanbu",
+        "Al-Jumum",
+        "Al-Khurma",
+        "Another City",
+        "Jeddah",
+        "KAUST",
+        "Khulais",
+        "Makkah",
+        "Rabigh",
+        "Ranyah",
+        "Taif",
+        "Turubah",
+        "Najran",
+        "Sharurah",
+        "Al-Qurayyat",
+        "Arar",
+        "Rafha",
+        "Sakaka",
+        "Tubarjal",
+        "Turaif",
+        "Al-Badayea",
+        "Al-Rass",
+        "Al-Zulfi",
+        "Baqaa",
+        "Buraydah",
+        "Unayzah",
+        "Uyun Al-Jawa",
+        "Al-Kharj",
+        "Al-Majmaah",
+        "Riyadh",
+        "Al-Wajh",
+        "Duba",
+        "Tabuk",
+        "Tayma",
+        "Umluj"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [
+        {
+          "customer_group_id": 0,
+          "label_en": "40% Off",
+          "label_ar": "وفر 40%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        },
+        {
+          "customer_group_id": 1,
+          "label_en": "40% Off",
+          "label_ar": "وفر 40%",
+          "start_date": "2026-09-06 00:00:00",
+          "end_date": "2026-09-17 23:59:00"
+        }
+      ],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "201888"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "سيتافيل منظف للبشرة الدهنية 236 مل",
+      "name_locally_en": "Cetaphil Oily Skin Cleanser 236Ml",
+      "name_locally_sar": "Cetaphil Oily Skin Cleanser 236 ml",
+      "name_locally_sen": "Cetaphil Oily Skin Cleanser 236 ml",
+      "algoliaLastUpdateAtCET": "2026-10-12 17:30:17",
+      "objectID": "8385",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Cetaphil</em> Oily Skin Cleanser 236Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Brand",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Buy 2 Pieces To Get 15% Extra Discount",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Best Seller",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Daily Essentials Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Magazine Shop",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Face Wash Offers",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Brand /// <em>Cetaphil</em>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "cetaphil"
+              ]
+            },
+            {
+              "value": "Magazine Shop /// Magazine Skin Care",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care /// Purifying & Makeup Removal",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Skin Care /// Purifying & Makeup Removal /// Face Cleanser",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level3": [
+            {
+              "value": "Skin Care /// Purifying & Makeup Removal /// Face Cleanser /// Acne & Blemish Cleanser",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Skin Care /// Purifying & Makeup Removal /// Face Cleanser /// Oily Skin Cleanser",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "<em>Cetaphil</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "cetaphil"
+            ]
+          },
+          {
+            "value": "Buy 2 Pieces To Get 15% Extra Discount",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Best Seller",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Daily Essentials Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Magazine Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Face Wash Offers",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Skin Care",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Acne & Blemish Cleanser",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Oily Skin Cleanser",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "201888",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>Cetaphil</em> Oily Skin Cleanser 236Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "سيتافيل منظف للبشرة الدهنية 236 مل",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Cetaphil</em> Oily Skin Cleanser 236Ml",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "cetaphil"
+          ]
+        }
+      }
+    }
+  ],
+  "nbHits": 45,
+  "page": 0,
+  "nbPages": 9,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "Cetaphil",
+  "params": "query=Cetaphil&hitsPerPage=5&tagFilters=",
+  "renderingContent": {},
+  "processingTimeMS": 2,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 80
+    },
+    "extensions": 1,
+    "fetch": {
+      "total": 1
+    },
+    "total": 3
+  },
+  "serverTimeMS": 3
+}

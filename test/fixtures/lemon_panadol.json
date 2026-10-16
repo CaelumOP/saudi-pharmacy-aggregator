@@ -1,0 +1,23 @@
+{
+  "hits": [
+    {
+      "product_id": "2474",
+      "name_ar": "بانادول أدفانس 24 قرص",
+      "name_en": "Panadol Advance 24 Tablets",
+      "price_SAR": "<span class=\"price-symbol\">6.05 SAR</span>",
+      "special_SAR": null,
+      "image": "https://lemon.sa/image/cache/catalog/panadol-advance-500x500.jpg",
+      "ean": "6285096003799"
+    },
+    {
+      "product_id": "2435",
+      "name_ar": "بانادول اكستند 665 مجم 24 قرص",
+      "name_en": "Panadol Extend 665 mg 24 Tablets",
+      "price_SAR": "15.75 SAR",
+      "special_SAR": null,
+      "image": "https://lemon.sa/image/cache/catalog/panadol-extend-500x500.jpg",
+      "ean": "04221706"
+    }
+  ],
+  "nbHits": 2
+}

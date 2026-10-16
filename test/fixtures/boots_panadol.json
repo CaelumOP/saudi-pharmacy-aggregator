@@ -1,0 +1,1634 @@
+{
+  "hits": [
+    {
+      "attr_brand": "Panadol",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:49+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "BZBTSLOPAN11509",
+      "title": "Panadol Cold + Flu, 24 Caplets",
+      "attr_aims_barcode": "08811509,8811509,9650383001111",
+      "alshaya_price_range": {
+        "from": {
+          "min": 12.3,
+          "max": 12.3
+        },
+        "to": {
+          "min": 12.3,
+          "max": 12.3
+        }
+      },
+      "price": 12.3,
+      "final_price": 12.3,
+      "original_price": 12.3,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 26,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Pharmacy/Medicines & Treatments/Cough Cold & Flu",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "BZBTSLOPAN11509",
+        "gtm-name": "Panadol Cold + Flu, 24 Caplets",
+        "gtm-product-sku": "BZBTSLOPAN11509",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Panadol",
+        "gtm-price": "12.3",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "63186",
+        "gtm-product-style-code": "BZBTSLOPAN11509",
+        "gtm-old-price": "12.3",
+        "gtm-department-id": "616",
+        "gtm-department-name": "Shop by Department|Pharmacy|Medicines & Treatments|Cough Cold & Flu"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Wellness",
+          "Shop by Department > Deals Under KWD 1",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments",
+          "Shop by Department > Wellness > Immunity & Protection"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > All Medicines & Treatments",
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department",
+          "Offers",
+          "Clearance"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Wellness",
+          "Shop by Department > Deals Under KWD 1",
+          "Offers > Clearance | Up to 50% Off"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments",
+          "Shop by Department > Wellness > Immunity & Protection"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > All Medicines & Treatments",
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        },
+        {
+          "lvl0": "Offers"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:8a2b98c1-cc9e-4fe6-8bb5-90a5f9a5ce0f/as/SK-BZBTSLOPAN11509_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:ba874b33-2c97-45c5-ace1-b36f3a67a7f1/as/SK-BZBTSLOPAN11509_2.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-panadol-cold-flu-24-caplets",
+      "changed": 1791934902,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1643739634,
+      "created": 1643739634,
+      "search_api_id": "BZBTSLOPAN11509",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10000.0000",
+        "cart_title": "panadol cold + flu, 24 caplets",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:8a2b98c1-cc9e-4fe6-8bb5-90a5f9a5ce0f/as/SK-BZBTSLOPAN11509_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934902,
+      "objectID": "BZBTSLOPAN11509"
+    },
+    {
+      "attr_brand": "Panadol",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:47+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "B5BOB5GSKC231109T",
+      "title": "Panadol Advance 500Mg Tab",
+      "attr_aims_barcode": 9502930973214,
+      "alshaya_price_range": {
+        "from": {
+          "min": 6.05,
+          "max": 6.05
+        },
+        "to": {
+          "min": 6.05,
+          "max": 6.05
+        }
+      },
+      "price": 6.05,
+      "final_price": 6.05,
+      "original_price": 6.05,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 230,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Pharmacy/Medicines & Treatments/Cough Cold & Flu",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "B5BOB5GSKC231109T",
+        "gtm-name": "Panadol Advance 500Mg Tab",
+        "gtm-product-sku": "B5BOB5GSKC231109T",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Panadol",
+        "gtm-price": "6.05",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "29420",
+        "gtm-product-style-code": "B5BOB5GSKC231109T",
+        "gtm-old-price": "6.05",
+        "gtm-department-id": "616",
+        "gtm-department-name": "Shop by Department|Pharmacy|Medicines & Treatments|Cough Cold & Flu"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:0fa9d745-9fe6-4ea5-ae9b-269fc01fee28/as/SK-B5BOB5GSKC231109T_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-panadol-advance-500mg-tab",
+      "changed": 1791934894,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1612082460,
+      "created": 1612082460,
+      "search_api_id": "B5BOB5GSKC231109T",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10000.0000",
+        "cart_title": "panadol advance 500mg tab",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:0fa9d745-9fe6-4ea5-ae9b-269fc01fee28/as/SK-B5BOB5GSKC231109T_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934907,
+      "objectID": "B5BOB5GSKC231109T"
+    },
+    {
+      "attr_brand": "Panadol",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:47+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "B5BOB5GSKC231109E",
+      "title": "Panadol Night Caplet 20pcs ",
+      "attr_aims_barcode": "9650383001159,08812605",
+      "alshaya_price_range": {
+        "from": {
+          "min": 11.6,
+          "max": 11.6
+        },
+        "to": {
+          "min": 11.6,
+          "max": 11.6
+        }
+      },
+      "price": 11.6,
+      "final_price": 11.6,
+      "original_price": 11.6,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 3,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Pharmacy/Medicines & Treatments/Cough Cold & Flu",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "B5BOB5GSKC231109E",
+        "gtm-name": "Panadol Night Caplet 20pcs ",
+        "gtm-product-sku": "B5BOB5GSKC231109E",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Panadol",
+        "gtm-price": "11.6",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "29417",
+        "gtm-product-style-code": "B5BOB5GSKC231109E",
+        "gtm-old-price": "11.6",
+        "gtm-department-id": "616",
+        "gtm-department-name": "Shop by Department|Pharmacy|Medicines & Treatments|Cough Cold & Flu"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Bestsellers",
+          "Shop by Department > Pharmacy"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments",
+          "Shop by Department > Bestsellers > Shop All Bestsellers"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Bestsellers",
+          "Shop by Department > Pharmacy"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy",
+          "Shop by Department > Pharmacy > Medicines & Treatments",
+          "Shop by Department > Bestsellers > Shop All Bestsellers"
+        ],
+        "lvl3": [
+          "Shop by Department > Pharmacy > Medicines & Treatments > Cough Cold & Flu"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:176f9d50-2c7e-4392-a74b-0209d876122b/as/SK-B5BOB5GSKC231109E_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-panadol-night-caplet-20pcs",
+      "changed": 1791934918,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1612082460,
+      "created": 1612082460,
+      "search_api_id": "B5BOB5GSKC231109E",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10.0000",
+        "cart_title": "panadol night caplet 20pcs ",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:176f9d50-2c7e-4392-a74b-0209d876122b/as/SK-B5BOB5GSKC231109E_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934920,
+      "objectID": "B5BOB5GSKC231109E"
+    },
+    {
+      "attr_brand": "Panadol",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:47+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "B5BOB5GSKC241109Y",
+      "title": "Panadol 500Mg 24 Coated Tab.",
+      "attr_aims_barcode": "9650383001098,5010006101026",
+      "alshaya_price_range": {
+        "from": {
+          "min": 5.8,
+          "max": 5.8
+        },
+        "to": {
+          "min": 5.8,
+          "max": 5.8
+        }
+      },
+      "price": 5.8,
+      "final_price": 5.8,
+      "original_price": 5.8,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 2,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Pharmacy/Visit Pharmacy",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "B5BOB5GSKC241109Y",
+        "gtm-name": "Panadol 500Mg 24 Coated Tab.",
+        "gtm-product-sku": "B5BOB5GSKC241109Y",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Panadol",
+        "gtm-price": "5.8",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "29423",
+        "gtm-product-style-code": "B5BOB5GSKC241109Y",
+        "gtm-old-price": "5.8",
+        "gtm-department-id": "385",
+        "gtm-department-name": "Shop by Department|Pharmacy|Visit Pharmacy"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:acab2c17-fd56-4293-a4bc-23dc15d8eb6c/as/SK-B5BOB5GSKC241109Y_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-panadol-500mg-24-coated-tab",
+      "changed": 1791934890,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1612082460,
+      "created": 1612082460,
+      "search_api_id": "B5BOB5GSKC241109Y",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10000.0000",
+        "cart_title": "panadol 500mg 24 coated tab.",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:acab2c17-fd56-4293-a4bc-23dc15d8eb6c/as/SK-B5BOB5GSKC241109Y_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934892,
+      "objectID": "B5BOB5GSKC241109Y"
+    },
+    {
+      "attr_brand": "Panadol",
+      "attr_size": [],
+      "attr_color": [],
+      "attr_color_label": [],
+      "attr_rgb_color": "",
+      "is_buyable": true,
+      "is_new": 0,
+      "attr_is_sale": 0,
+      "attr_updated_at": "2026-10-13T23:30:47+00:00",
+      "attr_context": "",
+      "attr_same_day_delivery": [
+        "1"
+      ],
+      "attr_express_delivery": [
+        "1"
+      ],
+      "attr_preview_preaccess_data": [],
+      "attr_main_brand_code": "",
+      "attr_brand_full_name": "",
+      "attr_active_ingredients_lhn": [],
+      "attr_body_area_lhn": [],
+      "attr_condition": [],
+      "attr_finish": [],
+      "attr_format": [],
+      "attr_fragrance_category": [],
+      "attr_fragrance_name": [],
+      "attr_fragrance_scent": [],
+      "attr_fragrance_type": [],
+      "attr_free_from": [],
+      "attr_gender": [],
+      "attr_key_features": [],
+      "attr_pack_size": [],
+      "attr_power_source": [],
+      "attr_spf": [],
+      "attr_skin_type": [],
+      "attr_specialist_milk": [],
+      "attr_suitable_for_lhn": [
+        "Adults"
+      ],
+      "attr_suitable_from": [],
+      "sku": "B5BOB5GSKC241109Z",
+      "title": "Panadol Actifast",
+      "attr_aims_barcode": "9650383001104,08817600,8817600",
+      "alshaya_price_range": {
+        "from": {
+          "min": 9.15,
+          "max": 9.15
+        },
+        "to": {
+          "min": 9.15,
+          "max": 9.15
+        }
+      },
+      "price": 9.15,
+      "final_price": 9.15,
+      "original_price": 9.15,
+      "eats_price": 0,
+      "eats_category_percent": 0,
+      "eats_calculated_price": 0,
+      "stock_quantity": 150,
+      "in_stock": 1,
+      "stock": 2,
+      "gtm": {
+        "gtm-type": "gtm-product-link",
+        "gtm-category": "Shop by Department/Pharmacy/Visit Pharmacy",
+        "gtm-container": "search result page",
+        "gtm-view-mode": "search_result",
+        "gtm-cart-value": "",
+        "gtm-main-sku": "B5BOB5GSKC241109Z",
+        "gtm-name": "Panadol Actifast",
+        "gtm-product-sku": "B5BOB5GSKC241109Z",
+        "gtm-product-sku-class-identifier": "",
+        "gtm-sku-type": "simple",
+        "gtm-brand": "Panadol",
+        "gtm-price": "9.15",
+        "gtm-dimension3": "Regular Product",
+        "gtm-dimension4": 2,
+        "gtm-stock": "in stock",
+        "gtm-magento-product-id": "29093",
+        "gtm-product-style-code": "B5BOB5GSKC241109Z",
+        "gtm-old-price": "9.15",
+        "gtm-department-id": "385",
+        "gtm-department-name": "Shop by Department|Pharmacy|Visit Pharmacy"
+      },
+      "lhn_category": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy"
+        ]
+      },
+      "field_category_name": {
+        "lvl0": [
+          "Shop by Department"
+        ],
+        "lvl1": [
+          "Shop by Department > Pharmacy",
+          "Shop by Department > Deals Under SAR 10"
+        ],
+        "lvl2": [
+          "Shop by Department > Pharmacy > Visit Pharmacy"
+        ]
+      },
+      "field_category": [
+        {
+          "lvl0": "All"
+        },
+        {
+          "lvl0": "Shop by Department"
+        }
+      ],
+      "media": [
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:6ba4ddac-9c43-489f-9c3a-fa0406a507a3/as/SK-B5BOB5GSKC241109Z_1.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        },
+        {
+          "url": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:ce065304-5349-41f1-b6f9-4ffe75ac11b9/as/SK-B5BOB5GSKC241109Z_2.jpg?width=450&height=489&preferwebp=true",
+          "image_type": "image"
+        }
+      ],
+      "product_labels": [
+        {
+          "position": "top-left",
+          "text": "",
+          "styles": ""
+        }
+      ],
+      "promotions": [],
+      "url": "/en/buy-panadol-actifast",
+      "changed": 1791934890,
+      "field_acq_promotion_label": [],
+      "promotion_nid": [],
+      "new_arrivals": 1612082453,
+      "created": 1612082453,
+      "search_api_id": "B5BOB5GSKC241109Z",
+      "search_api_datasource": "entity:node",
+      "search_api_language": "en",
+      "atb_product_data": {
+        "sku_type": "simple",
+        "max_sale_qty": "10.0000",
+        "cart_title": "panadol actifast",
+        "cart_image": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:6ba4ddac-9c43-489f-9c3a-fa0406a507a3/as/SK-B5BOB5GSKC241109Z_1.jpg?width=185&height=201&preferwebp=true"
+      },
+      "discount": 0,
+      "swatches": [],
+      "attr_color_family": [],
+      "attr_delivery_ways": [
+        "same_day_delivery_available",
+        "express_day_delivery_available"
+      ],
+      "article_swatches": [],
+      "member_price": null,
+      "member_price_range": null,
+      "attr_has_member_price": "",
+      "brand_link": "false",
+      "physical_stores_codes": [],
+      "store_id": 4,
+      "algoliaLastUpdateAtCET": 1791934892,
+      "objectID": "B5BOB5GSKC241109Z"
+    }
+  ],
+  "userData": [
+    {
+      "context": "default",
+      "facets_config": {
+        "final_price": {
+          "label": {
+            "en": "Price",
+            "ar": "السعر"
+          },
+          "widget": {
+            "type": "range_checkbox",
+            "config": {
+              "granularity": 5
+            }
+          },
+          "slug": "price"
+        },
+        "attr_size": {
+          "label": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "size"
+        },
+        "attr_color": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "color"
+        },
+        "attr_active_ingredients_lhn": {
+          "label": {
+            "en": "Active Ingredients",
+            "ar": "المكونات النشطة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "active_ingredients"
+        },
+        "attr_age_range": {
+          "label": {
+            "en": "Age Range",
+            "ar": "الفئة العمرية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "age_range"
+        },
+        "attr_barrel_size": {
+          "label": {
+            "en": "Barrel Size",
+            "ar": "حجم البرميل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "barrel_size"
+        },
+        "attr_body_area_lhn": {
+          "label": {
+            "en": "Body Area",
+            "ar": "منطقة الجسم"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "body_area"
+        },
+        "attr_bottle_type": {
+          "label": {
+            "en": "Bottle Type",
+            "ar": "نوع الزجاجة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "bottle_type"
+        },
+        "attr_battery_type": {
+          "label": {
+            "en": "Battery Type",
+            "ar": "نوع البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_type"
+        },
+        "attr_brand": {
+          "label": {
+            "en": "Brand",
+            "ar": "العلامة التجارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand"
+        },
+        "attr_car_seat_category": {
+          "label": {
+            "en": "Car Seat Category",
+            "ar": "فئة مقعد السيارة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "car_seat_category"
+        },
+        "attr_color_family": {
+          "label": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "widget": {
+            "type": "swatch_list"
+          },
+          "slug": "color_family"
+        },
+        "attr_compatibility": {
+          "label": {
+            "en": "Compatibility",
+            "ar": "التوافق"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "compatibility"
+        },
+        "attr_condition": {
+          "label": {
+            "en": "Condition",
+            "ar": "الحالة الصحية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "condition"
+        },
+        "attr_denier": {
+          "label": {
+            "en": "Denier",
+            "ar": "دنييه"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "denier"
+        },
+        "attr_finish": {
+          "label": {
+            "en": "Finish",
+            "ar": "الطبقة الخارجية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "finish"
+        },
+        "attr_flavour": {
+          "label": {
+            "en": "Flavour",
+            "ar": "النكهة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "flavour"
+        },
+        "attr_format": {
+          "label": {
+            "en": "Format",
+            "ar": "التركيبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "format"
+        },
+        "attr_fragrance_scent": {
+          "label": {
+            "en": "Fragrance Scent",
+            "ar": "رائحة العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_scent"
+        },
+        "attr_fragrance_type": {
+          "label": {
+            "en": "Fragrance Type",
+            "ar": "نوع العطر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "fragrance_type"
+        },
+        "attr_free_from": {
+          "label": {
+            "en": "Free From",
+            "ar": "خالي من"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "free_from"
+        },
+        "attr_gender": {
+          "label": {
+            "en": "Gender",
+            "ar": "الجنس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "gender"
+        },
+        "attr_hair_colour": {
+          "label": {
+            "en": "Hair Colour",
+            "ar": "لون الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_colour"
+        },
+        "attr_hair_type": {
+          "label": {
+            "en": "Hair Type",
+            "ar": "نوع الشعر"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "hair_type"
+        },
+        "attr_ingredients_lhn": {
+          "label": {
+            "en": "Ingredients",
+            "ar": "المكونات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "ingredients"
+        },
+        "attr_key_features": {
+          "label": {
+            "en": "Key Features",
+            "ar": "مميزات المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "key_features"
+        },
+        "attr_lhn_group": {
+          "label": {
+            "en": "LHN Group",
+            "ar": "المجموعة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "group"
+        },
+        "attr_meal_type": {
+          "label": {
+            "en": "Meal Type",
+            "ar": "نوع الوجبة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "meal_type"
+        },
+        "attr_nappy_type": {
+          "label": {
+            "en": "Nappy Type",
+            "ar": "نوع الحفاضة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "nappy_type"
+        },
+        "attr_number_of_wheels": {
+          "label": {
+            "en": "Number Of Wheels",
+            "ar": "عدد العجلات"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "number_of_wheels"
+        },
+        "attr_pack_size": {
+          "label": {
+            "en": "Pack Size",
+            "ar": "حجم العبوة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "pack_size"
+        },
+        "attr_power": {
+          "label": {
+            "en": "Power",
+            "ar": "الطاقة الكهربائية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power"
+        },
+        "attr_power_source": {
+          "label": {
+            "en": "Power Source",
+            "ar": "مصدر الطاقة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "power_source"
+        },
+        "attr_protection": {
+          "label": {
+            "en": "Protection",
+            "ar": "الحماية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "protection"
+        },
+        "attr_skin_type": {
+          "label": {
+            "en": "Skin Type",
+            "ar": "نوع البشرة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "skin_type"
+        },
+        "attr_specialist_milk": {
+          "label": {
+            "en": "Specialist Milk",
+            "ar": "حليب متخصص"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "specialist_milk"
+        },
+        "attr_suitable_for_lhn": {
+          "label": {
+            "en": "Suitable For",
+            "ar": "مناسب ل"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_for"
+        },
+        "attr_suitable_from": {
+          "label": {
+            "en": "Suitable From",
+            "ar": "مناسب منذ"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "suitable_from"
+        },
+        "attr_teat_flow": {
+          "label": {
+            "en": "Teat Flow",
+            "ar": "تدفق الحلمة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "teat_flow"
+        },
+        "attr_brand_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "brand_category"
+        },
+        "attr_shop_by_collection": {
+          "label": {
+            "en": "Shop By Collection",
+            "ar": "تسوق حسب التشكيلة"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "shop_by_collection"
+        },
+        "attr_product_type": {
+          "label": {
+            "en": "Product Type",
+            "ar": "نوع المنتج"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "product_type"
+        },
+        "attr_spf": {
+          "label": {
+            "en": "SPF",
+            "ar": "عامل الحماية من الشمس"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "spf"
+        },
+        "attr_character": {
+          "label": {
+            "en": "Character",
+            "ar": "الشخصية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "character"
+        },
+        "attr_battery_size": {
+          "label": {
+            "en": "Battery Size",
+            "ar": "حجم البطارية"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "battery_size"
+        },
+        "attr_delivery_ways": {
+          "label": {
+            "en": "Delivery Type",
+            "ar": "نوع التوصيل"
+          },
+          "widget": {
+            "type": "delivery_ways"
+          },
+          "slug": "delivery_ways",
+          "facet_values": {
+            "en": {
+              "same_day_delivery_available": "Same Day Delivery Available,same_day_delivery",
+              "express_day_delivery_available": "Express Delivery Available,express_delivery"
+            },
+            "ar": {
+              "same_day_delivery_available": "التوصيل في نفس اليوم متاح,same_day_delivery",
+              "express_day_delivery_available": "خدمة التوصيل السريع متوفرة,express_delivery"
+            }
+          }
+        },
+        "field_acq_promotion_label": {
+          "identifier": {
+            "en": "field_acq_promotion_label.web",
+            "ar": "field_acq_promotion_label.web"
+          },
+          "label": {
+            "en": "Promotions",
+            "ar": "العروض"
+          },
+          "widget": {
+            "type": "checkbox"
+          },
+          "slug": "promotions"
+        },
+        "field_category": {
+          "label": {
+            "en": "Category",
+            "ar": "التصنيف"
+          },
+          "widget": {
+            "type": "hierarchy"
+          },
+          "slug": "category",
+          "lhn": true
+        }
+      },
+      "sorting_label": {
+        "en": "Sort by",
+        "ar": "رتب حسب"
+      },
+      "sorting_options": [
+        "default",
+        "title_asc",
+        "title_desc",
+        "final_price_desc",
+        "final_price_asc",
+        "created_desc"
+      ],
+      "sorting_options_config": {
+        "default": {
+          "index": {
+            "en": "bp_prod_sa_en",
+            "ar": "bp_prod_sa_ar"
+          },
+          "label": {
+            "en": "Recommended",
+            "ar": "ما ننصح به"
+          }
+        },
+        "title_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_asc",
+            "ar": "bp_prod_sa_ar_title_asc"
+          },
+          "label": {
+            "en": "Name A To Z",
+            "ar": "الاسم من أ إلى ي"
+          }
+        },
+        "title_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_title_desc",
+            "ar": "bp_prod_sa_ar_title_desc"
+          },
+          "label": {
+            "en": "Name Z To A",
+            "ar": "الاسم من ي إلى أ"
+          }
+        },
+        "final_price_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_desc",
+            "ar": "bp_prod_sa_ar_final_price_desc"
+          },
+          "label": {
+            "en": "Price high to low",
+            "ar": "السعر من الأعلى إلى الأدنى"
+          }
+        },
+        "final_price_asc": {
+          "index": {
+            "en": "bp_prod_sa_en_final_price_asc",
+            "ar": "bp_prod_sa_ar_final_price_asc"
+          },
+          "label": {
+            "en": "Price low to high",
+            "ar": "السعر من الأدنى إلى الأعلى"
+          }
+        },
+        "created_desc": {
+          "index": {
+            "en": "bp_prod_sa_en_created_desc",
+            "ar": "bp_prod_sa_ar_created_desc"
+          },
+          "label": {
+            "en": "New In",
+            "ar": "جديدنا"
+          }
+        }
+      }
+    }
+  ],
+  "nbHits": 8,
+  "page": 0,
+  "nbPages": 2,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "Panadol",
+  "params": "query=Panadol&hitsPerPage=5&filters=%22final_price%22%3E%3D0.01+AND+%22discount%22%3C%3D95",
+  "queryID": "7b2249da3cede78c0f6b64acb4f9e2bc",
+  "_automaticInsights": true,
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": [
+          "attr_bv_rating",
+          "final_price",
+          "attr_brand",
+          "field_acq_promotion_label.web",
+          "attr_active_ingredients_lhn",
+          "attr_size",
+          "attr_skin_type",
+          "attr_spf",
+          "attr_suitable_for_lhn",
+          "attr_suitable_from",
+          "attr_condition",
+          "attr_finish",
+          "attr_flavour",
+          "attr_format",
+          "attr_fragrance_scent",
+          "attr_free_from",
+          "attr_gender",
+          "attr_key_features",
+          "attr_body_area_lhn",
+          "attr_brand_category",
+          "attr_product_type",
+          "attr_color_family",
+          "attr_color_family.value",
+          "attr_hair_type",
+          "attr_power_source",
+          "field_category",
+          "field_category.lvl0",
+          "field_category.lvl1",
+          "field_category.lvl2",
+          "field_category_name",
+          "field_category_name.lvl0",
+          "field_category_name.lvl1",
+          "field_category_name.lvl2",
+          "lhn_category",
+          "lhn_category.lvl0",
+          "lhn_category.lvl1",
+          "lhn_category.lvl2"
+        ]
+      },
+      "values": {
+        "attr_active_ingredients_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_body_area_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_brand": {
+          "sortRemainingBy": "alpha"
+        },
+        "attr_brand_category": {
+          "sortRemainingBy": "count"
+        },
+        "attr_bv_rating": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family": {
+          "sortRemainingBy": "count"
+        },
+        "attr_color_family.value": {
+          "sortRemainingBy": "count"
+        },
+        "attr_condition": {
+          "sortRemainingBy": "count"
+        },
+        "attr_finish": {
+          "sortRemainingBy": "count"
+        },
+        "attr_flavour": {
+          "sortRemainingBy": "count"
+        },
+        "attr_format": {
+          "sortRemainingBy": "count"
+        },
+        "attr_fragrance_scent": {
+          "sortRemainingBy": "count"
+        },
+        "attr_free_from": {
+          "sortRemainingBy": "count"
+        },
+        "attr_gender": {
+          "sortRemainingBy": "count"
+        },
+        "attr_hair_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_key_features": {
+          "sortRemainingBy": "count"
+        },
+        "attr_power_source": {
+          "sortRemainingBy": "count"
+        },
+        "attr_product_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_size": {
+          "sortRemainingBy": "count"
+        },
+        "attr_skin_type": {
+          "sortRemainingBy": "count"
+        },
+        "attr_spf": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_for_lhn": {
+          "sortRemainingBy": "count"
+        },
+        "attr_suitable_from": {
+          "sortRemainingBy": "count"
+        },
+        "field_acq_promotion_label.web": {
+          "sortRemainingBy": "count"
+        },
+        "field_category": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "field_category_name.lvl2": {
+          "sortRemainingBy": "count"
+        },
+        "final_price": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl0": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl1": {
+          "sortRemainingBy": "count"
+        },
+        "lhn_category.lvl2": {
+          "sortRemainingBy": "count"
+        }
+      }
+    }
+  },
+  "processingTimeMS": 4,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 70
+    },
+    "extensions": 1,
+    "getIdx": {
+      "load": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "total": 4
+  },
+  "serverTimeMS": 5
+}

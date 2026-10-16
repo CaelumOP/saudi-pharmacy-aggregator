@@ -1,0 +1,665 @@
+{
+  "type": "productCategorySearchPageWsDTO",
+  "categoryBreadcrumbs": [],
+  "currentQuery": {
+    "query": {
+      "value": "panadol:relevance"
+    },
+    "url": "/search?q=panadol%3Arelevance"
+  },
+  "freeTextSearch": "panadol",
+  "pagination": {
+    "currentPage": 0,
+    "pageSize": 5,
+    "sort": "relevance",
+    "totalPages": 4,
+    "totalResults": 19
+  },
+  "products": [
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "991996",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Panadol",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "101688",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/بنادول-كولد-اند-فلو-نايت-تايم-يخفف-اعراض-البرد-24-قرص_0_300.webp?context=bWFzdGVyfGltYWdlc3wzNzYzOHxpbWFnZS93ZWJwfGFEZ3dMMmd6WkM4NU5UUTROalUzTXprek5qazBMekV3TVRZNE9GOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDU3ZDRhZDMzNjZlOGJjMmMzYjNjODE1NGU1ZWUzYTdhMjM4YWFhNzM3NmM2OWJjYTQyOWFmMGI4MWM3OTYzMzc"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Panadol-Cold-And-Flu-Night-Time-For-Common-Cold-24-Caplets_0_300.webp?context=bWFzdGVyfGltYWdlc3wzNzYzOHxpbWFnZS93ZWJwfGFHVXlMMmd5WXk4NU5UUTROalUzT0RVeU5EUTJMekV3TVRZNE9GOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfGFhMWU2NDk3YjBmNTQwZTlhZGQwYWU3NzU1Y2QxN2I0NjJhZjY5Njc2Y2Q5ZmY3OWYzMTY5OWQ4MDUwNjI4NzQ"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Panadol Cold And Flu, Night Time, For Common Cold - 24 Caplets",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 4.0,
+      "numberOfArbahiPointsToPay": 356.0,
+      "numberOfQitafPointsToPay": 160.5,
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "16.05",
+        "priceType": "BUY",
+        "value": 16.05
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "16.05",
+        "priceType": "BUY",
+        "value": 16.05
+      },
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Medicine-and-Treatment/Self-Medication/Cough%2C-Cold-%26-Allergy/Panadol-Cold-And-Flu%2C-Night-Time%2C-For-Common-Cold---24-Caplets/p/101688",
+      "urlProductName": "panadol-cold-and-flu-common-cold-24-caplets",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "averageRating": 5.0,
+      "bonded": false,
+      "brand": {
+        "code": "991996",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Panadol",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "101685",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/بنادول-ادفانس-اقراص-24-قرص_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMDg2OHxpbWFnZS93ZWJwfGFERXdMMmd5WkM4NU56STFPVGsyTmprMU5UZ3lMekV3TVRZNE5WOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfGY1NzRjZjMwMDU2NzE3NzhlOTVmMDFiNTgxZmMzOTUzOTIxMDNmZWY4NzM4Y2EwZmYyOGI4ZDI1MjUwYWU5NTQ"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Panadol-Advance-24-Tablets_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMDg2OHxpbWFnZS93ZWJwfGFHTXhMMmd4WlM4NU56STFPVGsyTWpNMk9ETXdMekV3TVRZNE5WOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDZmYmI1YWNkNjEyMGJiNzM1OTMyMjBhNWY3MTAwOTliM2FkOTA4NjJlMGU4MTBhNDdkMjMxZDg2OWM2ZmExZWQ"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Panadol Advance - 24 Tablets",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 1.0,
+      "numberOfArbahiPointsToPay": 154.0,
+      "numberOfQitafPointsToPay": 69.5,
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "6.95",
+        "priceType": "BUY",
+        "value": 6.95
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "6.95",
+        "priceType": "BUY",
+        "value": 6.95
+      },
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Medicine-and-Treatment/Self-Medication/Pain-Relief/Panadol-Advance---24-Tablets/p/101685",
+      "urlProductName": "panadol-advance-24-tablets",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "averageRating": 5.0,
+      "bonded": false,
+      "brand": {
+        "code": "991996",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Panadol",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "101690",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/بنادول-اكسترا-مسكن-وخافض-للحرارة-24-قرص_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMTA3NnxpbWFnZS93ZWJwfGFEazNMMmd4T1M4NU56STJNREExTXpRMk16TTBMekV3TVRZNU1GOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDQxZTA2ZWNkZTc0YWIzYzdjYTAxOWRjZDFhY2ZmOWNlOGZjYmEyMmE1NzJmZWEyMDZkODNkMzYzOTc4YWQwOTE"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Panadol-Extra-Analgesic-Antipyretic-24-Tablets_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMTA3NnxpbWFnZS93ZWJwfGFHWTRMMmd3T0M4NU56STJNREExT0RBMU1EZzJMekV3TVRZNU1GOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDhiOWIyN2MwNDUwOWZjNTQ2OTFhOWVjM2NmYzkwMTZhZDMwNjExZjEwNWRkZTEwZTYyYTBhNjg0ZGRhMjI4ZDA"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Panadol Extra, Analgesic & Antipyretic - 24 Tablets",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 2.0,
+      "numberOfArbahiPointsToPay": 177.0,
+      "numberOfQitafPointsToPay": 80.0,
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "8.00",
+        "priceType": "BUY",
+        "value": 8.0
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "8.00",
+        "priceType": "BUY",
+        "value": 8.0
+      },
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Medicine-and-Treatment/Self-Medication/Pain-Relief/Panadol-Extra%2C-Analgesic-%26-Antipyretic---24-Tablets/p/101690",
+      "urlProductName": "panadol-extra-analgesic-antipyretic-24-tablets",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "991996",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Panadol",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "101687",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/بنادول-500-مجم-اقراص-الباراسيتامول-مسكنة-للالم-24-قرص_0_300.webp?context=bWFzdGVyfGltYWdlc3wzNTEzMnxpbWFnZS93ZWJwfGFERXpMMmcwWlM4NU5ERXlOek0zTkRNek5qTXdMekV3TVRZNE4xOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDNmYzg2NDJkZTk5MmVhODIyYWJlNGM5MDI1NTc2OWRiMTdjNzljN2ZiMDhjY2IyMzdjMDc1ZGM1ZjdkYWE5NGY"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Panadol-Blue-Paracetamol-500-Mg-Analgesic-24-Tablets_0_300.webp?context=bWFzdGVyfGltYWdlc3wzNTEzMnxpbWFnZS93ZWJwfGFEWXhMMmcxWXk4NU5ERXlOek0zT0RreU16Z3lMekV3TVRZNE4xOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfGM2ZjgzNmI1ZTEwMzNjOTZiN2U5ZmFjMzNmN2RkMjIyMDJhN2ZlOGE0ZWIwNzU2ZjBmODk3NjE5MGM4NjhiMzc"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Panadol Blue Paracetamol 500 Mg, Analgesic - 24 Tablets",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 1.0,
+      "numberOfArbahiPointsToPay": 128.0,
+      "numberOfQitafPointsToPay": 58.0,
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "5.80",
+        "priceType": "BUY",
+        "value": 5.8
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "5.80",
+        "priceType": "BUY",
+        "value": 5.8
+      },
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Medicine-and-Treatment/Self-Medication/Pain-Relief/Panadol-Blue-Paracetamol-500-Mg%2C-Analgesic---24-Tablets/p/101687",
+      "urlProductName": "panadol-blue-paracetamol-500-mg-24-tabs",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "991996",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Panadol",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "102561",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/بانادول-اقراص-اكستند-لتسكين-الام-المفاصل-الممتد-24-قرص_0_300.webp?context=bWFzdGVyfGltYWdlc3w5NjQ2fGltYWdlL3dlYnB8YURVNUwyaGxNaTg1TnpJMk9EQXdORGswTmpJeUx6RXdNalUyTVY4d1gyRnlYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8MmI2NWE1Mzk3ZDVmY2ExYmI2MTQxZDUwZDU4NmY0N2M4YTdlNTc5MWZmZjFhMDk0ODFhYzA4YThjODliMmI4ZA"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Panadol-Extend-Tablets-LongLasting-Joint-Pain-Relief-24-Tablets_0_300.webp?context=bWFzdGVyfGltYWdlc3w5NjQ2fGltYWdlL3dlYnB8YUdFNEwyaG1NQzg1TnpJMk9EQXdNRE0xT0Rjd0x6RXdNalUyTVY4d1gyVnVYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8YWMyZmM3M2FhMzJkODJkNzViZWUwYTM2MGU0ZTA5YWZmNjU0YmQzN2FiM2M0YzViNTY4YmQ0ZDcxMDllOTlkNw"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Panadol, Extend Tablets, Long-Lasting Joint Pain Relief - 24 Tablets",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 4.0,
+      "numberOfArbahiPointsToPay": 349.0,
+      "numberOfQitafPointsToPay": 157.5,
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "15.75",
+        "priceType": "BUY",
+        "value": 15.75
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "15.75",
+        "priceType": "BUY",
+        "value": 15.75
+      },
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Medicine-and-Treatment/Self-Medication/Pain-Relief/Panadol%2C-Extend-Tablets%2C-Long-Lasting-Joint-Pain-Relief---24-Tablets/p/102561",
+      "urlProductName": "panadol-analgesic-extend-24-tablets",
+      "wasleen": false
+    }
+  ],
+  "sorts": [
+    {
+      "code": "relevance",
+      "name": "Sort by recommended",
+      "selected": true
+    },
+    {
+      "code": "newestDate",
+      "name": "Latest",
+      "selected": false
+    },
+    {
+      "code": "price-asc",
+      "name": "Low Price",
+      "selected": false
+    },
+    {
+      "code": "price-desc",
+      "name": "High price",
+      "selected": false
+    },
+    {
+      "code": "topRated",
+      "name": "Top rated",
+      "selected": false
+    },
+    {
+      "code": "bestSeller-desc",
+      "name": "Best Seller",
+      "selected": false
+    },
+    {
+      "code": "promoPriority-desc",
+      "name": "Sort by Offers",
+      "selected": false
+    }
+  ],
+  "stats": {
+    "all": {
+      "max": 188.0,
+      "min": 5.8
+    }
+  }
+}

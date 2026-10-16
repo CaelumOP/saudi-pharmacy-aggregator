@@ -1,0 +1,57 @@
+{
+  "type": "productCategorySearchPageWsDTO",
+  "categoryBreadcrumbs": [],
+  "currentQuery": {
+    "query": {
+      "value": "6285096003799:relevance"
+    },
+    "url": "/search?q=6285096003799%3Arelevance"
+  },
+  "freeTextSearch": "6285096003799",
+  "pagination": {
+    "currentPage": 0,
+    "pageSize": 5,
+    "sort": "relevance",
+    "totalPages": 0,
+    "totalResults": 0
+  },
+  "products": [],
+  "sorts": [
+    {
+      "code": "relevance",
+      "name": "Sort by recommended",
+      "selected": true
+    },
+    {
+      "code": "newestDate",
+      "name": "Latest",
+      "selected": false
+    },
+    {
+      "code": "price-asc",
+      "name": "Low Price",
+      "selected": false
+    },
+    {
+      "code": "price-desc",
+      "name": "High price",
+      "selected": false
+    },
+    {
+      "code": "topRated",
+      "name": "Top rated",
+      "selected": false
+    },
+    {
+      "code": "bestSeller-desc",
+      "name": "Best Seller",
+      "selected": false
+    },
+    {
+      "code": "promoPriority-desc",
+      "name": "Sort by Offers",
+      "selected": false
+    }
+  ],
+  "stats": {}
+}

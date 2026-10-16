@@ -1,0 +1,335 @@
+{
+  "hits": [
+    {
+      "name": "Cetaphil Moisturizing Cream 566gm - Twin Pack",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/104208615_a34ba701fdc909b93_86631.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": {
+        "SAR": {
+          "default": 164.99,
+          "default_formated": "164.99 SAR",
+          "default_original_formated": "395.60 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "fulfilment_source": "Hubstore",
+      "imf_class": "FACE AND BODY CARE",
+      "url": "https://ecombe.nahdionline.com/en/cetaphil-moisturizing-cream-566-gm-x2-bundle",
+      "manufacturer": "Cetaphil",
+      "sku": "104208615",
+      "global_filter": "Express",
+      "min_qty": 1,
+      "objectID": "458044",
+      "rx_items": "No",
+      "boosted_points": 0,
+      "max_qty": 10000
+    },
+    {
+      "manufacturer": "Cetaphil",
+      "max_qty": 10000,
+      "redbox_pl_custom": "No",
+      "url": "https://ecombe.nahdionline.com/en/cetaphil-gentle-skin-cleanser-for-dry-to-normal-skin-236-ml",
+      "imf_class": "CLEANSING",
+      "price": {
+        "SAR": {
+          "default": 71.07,
+          "default_formated": "71.07 SAR",
+          "default_original_formated": "109.25 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "rx_items": "No",
+      "sku": "101075378",
+      "objectID": "140746",
+      "min_qty": 1,
+      "boosted_points": 0,
+      "fulfilment_source": "Hubstore",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/101075378_ad4bd9a6b1fb46b87_43996.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "name": "Cetaphil Gentle Skin Cleanser For Dry to Normal Skin - 236 ml",
+      "global_filter": "Express"
+    },
+    {
+      "name": "Cetaphil Oily Skin Cleanser 236 ml",
+      "redbox_pl_start_date": "Nov 15, 2023",
+      "sku": "101255205",
+      "boosted_points": 3000,
+      "bundle_skus": 101075386,
+      "price": {
+        "SAR": {
+          "default": 67.28,
+          "default_formated": "67.28 SAR",
+          "default_original_formated": "103.50 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "global_filter": "Express",
+      "imf_class": "CLEANSING",
+      "min_qty": 1,
+      "redbox_pl_custom_image_url": "https://www.nahdionline.com/media/redbox/product_labels/custom_labels/BUNDLE_lable_-_boxes-01.png",
+      "url": "https://ecombe.nahdionline.com/en/cetaphil-oily-skin-cleanser-236-ml",
+      "objectID": "146917",
+      "bundle_discount_price_end_date": "2023-12-03 00:00:00",
+      "fulfilment_source": "Hubstore",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/101255205_ab1ca32cba4dc6fda_1167.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "max_qty": 10000,
+      "redbox_pl_custom": "No",
+      "redbox_pl_end_date": "Dec 3, 2023",
+      "rx_items": "No",
+      "bundle_discount_price_start_date": "2023-11-15 00:00:00",
+      "manufacturer": "Cetaphil"
+    },
+    {
+      "price": {
+        "SAR": {
+          "default": 66.59,
+          "default_formated": "66.59 SAR",
+          "default_original_formated": "102.35 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "sku": "101075386",
+      "manufacturer": "Cetaphil",
+      "min_qty": 1,
+      "redbox_pl_custom": "No",
+      "bundle_discount_price_end_date": "2024-01-25 00:00:00",
+      "bundle_skus": 100956325,
+      "fulfilment_source": "Hubstore",
+      "imf_class": "MOISTURISING",
+      "redbox_pl_end_date": "Jan 25, 2024",
+      "rx_items": "No",
+      "url": "https://ecombe.nahdionline.com/en/cetaphil-moisturizing-cream-for-dry-to-very-dry-100-gm",
+      "boosted_points": 2000,
+      "bundle_discount_price_start_date": "2023-01-16 00:00:00",
+      "global_filter": "Express",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/101075386_a18a1298de1c588b4_30882.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "redbox_pl_custom_image_url": "https://www.nahdionline.com/media/redbox/product_labels/custom_labels/BUNDLE_lable_-_boxes-01.png",
+      "redbox_pl_start_date": "Dec 24, 2023",
+      "objectID": "139126",
+      "max_qty": 10000,
+      "name": "Cetaphil Moisturizing Cream For Dry to Very Dry Skin  - 100 gm"
+    },
+    {
+      "boosted_points": 0,
+      "fulfilment_source": "Hubstore",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/101497765_af66f130c99645f79_69498.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "imf_class": "SHAMPOO",
+      "redbox_pl_custom": "No",
+      "sku": "101497765",
+      "bundle_discount_price_start_date": "2023-11-05 00:00:00",
+      "name": "Cetaphil Baby Wash & Shampoo With Organic Calendula - 400 ml",
+      "url": "https://ecombe.nahdionline.com/en/cetaphil-baby-wash-shampoo-with-organic-calendula-400-ml",
+      "manufacturer": "Cetaphil",
+      "min_qty": 1,
+      "price": {
+        "SAR": {
+          "default": 56.06,
+          "default_formated": "56.06 SAR",
+          "default_original_formated": "86.25 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "redbox_pl_custom_image_url": "https://www.nahdionline.com/media/redbox/product_labels/custom_labels/BUNDLE_lable_-_boxes-01.png",
+      "rx_items": "No",
+      "objectID": "173283",
+      "bundle_discount_price_end_date": "2023-11-15 00:00:00",
+      "bundle_skus": 101037945,
+      "global_filter": "Express",
+      "max_qty": 10000,
+      "redbox_pl_end_date": "Nov 15, 2023",
+      "redbox_pl_start_date": "Nov 5, 2023"
+    }
+  ],
+  "nbHits": 100,
+  "hitsPerPage": 5,
+  "page": 0,
+  "nbPages": 20,
+  "processingTimeMS": 173,
+  "processingTimingsMS": {
+    "needSortBuckets": {
+      "total": 0
+    },
+    "rank": {
+      "total": 0
+    },
+    "makeResponse": {
+      "_request": {
+        "queue": 10,
+        "roundTrip": 10
+      },
+      "rulesProcessing": {
+        "indexRules": 1,
+        "total": 1
+      },
+      "getIdx": {
+        "load": {
+          "gens": 1,
+          "total": 2
+        },
+        "total": 3,
+        "unload": 1
+      },
+      "total": 49,
+      "afterFetch": {
+        "merge": {
+          "entries": {
+            "total": 1
+          },
+          "mergeLoop": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 1
+      },
+      "fetch": {
+        "query": 5,
+        "total": 6
+      },
+      "extractDocsToPromoteDetails": {
+        "total": 19,
+        "pinRetrieval": {
+          "filterSetup": 14,
+          "search": {
+            "buildQuery": 4,
+            "total": 4
+          },
+          "total": 19
+        }
+      }
+    },
+    "runLegacyExtension": {
+      "total": 1
+    },
+    "makeDRRRule": {
+      "total": 0
+    },
+    "hashText": {
+      "total": 23
+    },
+    "total": 173,
+    "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+    },
+    "stringRegexpExtract": {
+      "total": 0
+    },
+    "makeKeywordRequest": {
+      "total": 0
+    },
+    "keywordSearch": {
+      "network": 14,
+      "fetch": {
+        "query": 8,
+        "total": 9
+      },
+      "_request": {
+        "roundTrip": 9
+      },
+      "total": 14,
+      "afterFetch": {
+        "total": 1,
+        "merge": {
+          "total": 1
+        }
+      }
+    },
+    "vectorSearch": {
+      "network": 54,
+      "fetch": {
+        "scanning": 33,
+        "total": 36,
+        "query": 1
+      },
+      "total": 54,
+      "afterFetch": {
+        "merge": {
+          "entries": {
+            "parse": 1,
+            "total": 1
+          },
+          "mergeLoop": {
+            "total": 2
+          },
+          "total": 2
+        },
+        "total": 2,
+        "format": {
+          "total": 4
+        }
+      }
+    },
+    "evaluateRules": {
+      "total": 40,
+      "pinRetrievalMS": 6,
+      "marshalMS": 0,
+      "buildRequestMS": 0,
+      "networkMS": 34,
+      "unmarshalMS": 0
+    },
+    "makeLegacyExtensionRequest": {
+      "total": 0
+    },
+    "normalizeText": {
+      "total": 0
+    },
+    "getAIConfig": {
+      "total": 0
+    },
+    "getBrowseFilters": {
+      "total": 0
+    },
+    "getBrowseFilter": {
+      "total": 0
+    },
+    "drrPromotedObjectIDs": {
+      "total": 0
+    },
+    "experimentalFilterVectorResultsByCosine": {
+      "total": 0
+    },
+    "isLegacyExtensionEnabled": {
+      "total": 0
+    },
+    "experimentalAdaptiveIntentHash": {
+      "total": 1
+    },
+    "makeVectorRequest": {
+      "total": 0
+    },
+    "merge": {
+      "total": 0
+    }
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "query": "Cetaphil",
+  "queryAfterRemoval": "Cetaphil",
+  "queryID": "5044030a579828507e12cb195ef5808e",
+  "_automaticInsights": true,
+  "params": "query=Cetaphil&hitsPerPage=5&numericFilters=%5B%22visibility_search%3D1%22%2C%22price.SAR.default%3E0.01%22%5D&optionalFilters=%5B%22imf_category%3A-PETS+CARE%5Cu003cscore%3D8%5Cu003e%22%2C%22imf_item_brand%3A-Pampers%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Head+%5Cu0026+Shoulders%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Herbal+Essences%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Pantene%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Always%5Cu003cscore%3D10%5Cu003e%22%5D&sumOrFiltersScores=false",
+  "extensions": {
+    "queryCategorization": {
+      "count": 14574,
+      "normalizedQuery": "cetaphil"
+    }
+  },
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": []
+      }
+    }
+  },
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "aiReRanking": {
+    "reRankingActivated": true,
+    "persoImpactInsideActivationWindow": false
+  }
+}

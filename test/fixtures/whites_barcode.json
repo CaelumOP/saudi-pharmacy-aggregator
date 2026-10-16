@@ -1,0 +1,51 @@
+{
+  "hits": [
+    {
+      "description": "Panadol Extra 500Mg 24Tablets",
+      "id": "2207",
+      "title": "Panadol Extra 500Mg 24Tablets",
+      "image_link": "https://cd3c14-whites.akinoncloudcdn.com/products/2025/09/09/29726/b412e235-1e86-49f9-80fd-f5aa884e6df0.jpg",
+      "price": "8.00 SAR",
+      "sale_price": "8.00 SAR",
+      "title_ar": "باندول إكسترا 500ملغ - 24 قرص",
+      "brand": "PANADOL",
+      "gtin": "6285096003799,6285096000842,8815408,6286740000409",
+      "benefits": "Benefits\n\n• Provides rapid pain relief for a variety of ailments.\n• Suitable for daily use with minimal side effects.\n• Helps you stay active and comfortable throughout the day.\n• Ideal for those suffering from chronic pain conditions.\n• Non-prescription medication for easy access.\n• Trusted brand known for quality and effectiveness.\n• Compact packaging for easy storage at home or on-the-go.\n• Available in convenient tablet form for simple administration.",
+      "benefits_ar-sa": "المزايا\n\n• تخفيف سريع من الألم لعدة أعراض\n• فعال في تخفيف آلام الصداع وآلام الجسم\n• يتميز بتركيبة لطيفة على المعدة\n• يأتي في عبوة تحتوي على 24 قرص لتلبية احتياجاتك اليومية\n• يعد خيارًا مثاليًا لتخفيف الألم بشكل فعال\n• يساعد في تخفيف الأعراض المرتبطة بالبرد والإنفلونزا\n• يمكن استخدامه بسهولة في أي وقت تحتاج فيه إلى تخفيف الألم\n• موثوق به من قبل المستخدمين حول العالم",
+      "description_ar-sa": "بانادول إكسترا 500 ملغ هو دواء مسكن مصمم لتخفيف أنواع مختلفة من الألم بما في ذلك الصداع، والصداع التوتري، والصداع النصفي، وآلام التهاب المفاصل، وأعراض البرد والإنفلونزا، وآلام الدورة الشهرية، وآلام العضلات، والتهاب الحلق، وآلام الأسنان.\n\nالميزات الرئيسية\n\n• تخفيف فعال من الألم: مناسب للصداع وآلام الجسم\n• تخفيف من أعراض البرد والإنفلونزا: يساعد في تخفيف الأعراض المرتبطة بالزكام\n• تخفيف آلام الدورة الشهرية: مخصص لتخفيف آلام الطمث\n• 24 قرص في العبوة: توفر كمية كافية للاستخدام اليومي\n• لطيف على المعدة: آمن للاستخدام بدون تهيج",
+      "brand_ar": "بنادول",
+      "how_to_use_ar": "يُؤخذ عن طريق الفم فقط.",
+      "stock": "44",
+      "sku": "5112",
+      "objectID": "5112"
+    }
+  ],
+  "nbHits": 1,
+  "page": 0,
+  "nbPages": 1,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "6285096003799",
+  "params": "query=6285096003799&hitsPerPage=5",
+  "queryID": "047c74e6281001ea3374ca073e358bcb",
+  "_automaticInsights": true,
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": []
+      }
+    }
+  },
+  "processingTimeMS": 1,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 214
+    },
+    "total": 0
+  }
+}

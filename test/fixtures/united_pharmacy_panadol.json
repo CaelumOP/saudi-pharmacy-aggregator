@@ -1,0 +1,1232 @@
+{
+  "hits": [
+    {
+      "name": "Panadol Advance 24 Tablets",
+      "url": "https://unitedpharmacy.sa/en/panadol-advance-500mg-24-tablet.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Medications"
+        ],
+        "level1": [
+          "Medications /// OTC Medications"
+        ],
+        "level2": [
+          "Medications /// OTC Medications /// Analgesics & Antipyretics"
+        ]
+      },
+      "categories_without_path": [
+        "OTC Medications",
+        "Analgesics & Antipyretics",
+        "Medications"
+      ],
+      "categoryIds": [
+        "605",
+        "238",
+        "239"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_advance_24_tablets.jpg?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_advance_24_tablets.jpg?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "102546",
+      "meta_title": "PANADOL ADVANCE 500MG 24 TABLET",
+      "price": {
+        "SAR": {
+          "default": 6.95,
+          "default_formated": "6.95",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Panadol",
+      "offer_start_date": "2025-04-04 00:00:00",
+      "offer_end_date": "2025-04-05 00:00:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Mahd Al-Thahab",
+        "Ahad Al-Masarihah",
+        "Ranyah",
+        "Al-Haqu",
+        "Khamis Mushait",
+        "Bisha",
+        "Hail",
+        "Al-Baha",
+        "Najran",
+        "Al-Hofuf",
+        "Jizan",
+        "Al-Khobar",
+        "Tabuk",
+        "Buraydah",
+        "Hafar Al-Batin",
+        "Abha",
+        "Arar",
+        "Unayzah",
+        "Baljurashi",
+        "Al-Jumum",
+        "Yanbu",
+        "Al-Makhwah",
+        "Ahad Rofida",
+        "Al-Rass",
+        "Al-Qatif",
+        "Al-Zulfi",
+        "Anak",
+        "Al-Wajh",
+        "Al-Nuairyah",
+        "Abqaiq",
+        "Duba",
+        "Al-Khurma",
+        "Khulais",
+        "Mahayel asir",
+        "Al-Qurayyat",
+        "Al-Muzaylif",
+        "Sakaka",
+        "AL-Qunfudhah",
+        "Turubah",
+        "Al-Namas",
+        "Al-Majardah",
+        "KAUST",
+        "Al-Majmaah",
+        "Balqarn",
+        "Turaif",
+        "Tathleeth",
+        "Sabya",
+        "Al-Mandaq",
+        "Umluj",
+        "Al-Khafji",
+        "Samtah",
+        "Al-Aqiq",
+        "Al-Ahsa",
+        "Jubail",
+        "Al-Darb",
+        "Rabigh",
+        "Uyun Al-Jawa",
+        "Baqaa",
+        "Farasan Island",
+        "Saihat",
+        "Al-Aridhah",
+        "Badr - Madinah Region",
+        "Tayma",
+        "Rafha",
+        "Sharurah",
+        "Abu Arish",
+        "Al-Mubarraz",
+        "Namerah",
+        "Al-Hait",
+        "Al-Henakiyah",
+        "Sarat Ebidah",
+        "Tubarjal",
+        "Al-Badayea",
+        "Bareq",
+        "Al-Qahma",
+        "Al-Kharj",
+        "Al-Qouz"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "102546"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "بانادول أدفانس 500 مجم، مسكن وخافض للحرارة - 24 قرص",
+      "name_locally_en": "Panadol Advance 24 Tablets",
+      "name_locally_sar": "Panadol Advance 24 Tablets",
+      "name_locally_sen": "Panadol Advance 24 Tablets",
+      "algoliaLastUpdateAtCET": "2026-10-13 17:55:14",
+      "objectID": "731",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Panadol</em> Advance 24 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Medications /// OTC Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Medications /// OTC Medications /// Analgesics & Antipyretics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "OTC Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Analgesics & Antipyretics",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "102546",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>PANADOL</em> ADVANCE 500MG 24 TABLET",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "بانادول أدفانس 500 مجم، مسكن وخافض للحرارة - 24 قرص",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Panadol</em> Advance 24 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Panadol Extra 24 Tablet",
+      "url": "https://unitedpharmacy.sa/en/panadol-extra-24-tablet.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 99,
+      "categories": {
+        "level0": [
+          "hajj & Umrah Products",
+          "Medications"
+        ],
+        "level1": [
+          "Medications /// OTC Medications"
+        ],
+        "level2": [
+          "Medications /// OTC Medications /// Analgesics & Antipyretics"
+        ]
+      },
+      "categories_without_path": [
+        "hajj & Umrah Products",
+        "OTC Medications",
+        "Analgesics & Antipyretics",
+        "Medications"
+      ],
+      "categoryIds": [
+        "941",
+        "605",
+        "238",
+        "239"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_extra_24_tablet.jpg?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_extra_24_tablet.jpg?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "102553",
+      "meta_title": "PANADOL EXTRA 24 TABLET",
+      "price": {
+        "SAR": {
+          "default": 8,
+          "default_formated": "8.00",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Panadol",
+      "offer_start_date": "2025-04-04 00:00:00",
+      "offer_end_date": "2025-04-05 00:00:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Al-Kharj",
+        "Khamis Mushait",
+        "Bisha",
+        "Hail",
+        "Al-Baha",
+        "Najran",
+        "Al-Hofuf",
+        "Jizan",
+        "Al-Khobar",
+        "Tabuk",
+        "Buraydah",
+        "Hafar Al-Batin",
+        "Abha",
+        "Arar",
+        "Unayzah",
+        "Mahayel asir",
+        "Baljurashi",
+        "Al-Jumum",
+        "Al-Khurma",
+        "Sharurah",
+        "Yanbu",
+        "Al-Makhwah",
+        "Al-Majardah",
+        "Al-Aqiq",
+        "Al-Mandaq",
+        "Al-Namas",
+        "AL-Qunfudhah",
+        "Ahad Rofida",
+        "Al-Rass",
+        "Al-Qatif",
+        "Al-Qurayyat",
+        "Al-Zulfi",
+        "Turaif",
+        "Al-Majmaah",
+        "Tathleeth",
+        "Jubail",
+        "Turubah",
+        "Balqarn",
+        "Khulais",
+        "Al-Henakiyah",
+        "Rabigh",
+        "Al-Wajh",
+        "Badr - Madinah Region",
+        "Umluj",
+        "Sakaka",
+        "Al-Ahsa",
+        "Tayma",
+        "KAUST",
+        "Al-Nuairyah",
+        "Sabya",
+        "Abqaiq",
+        "Duba",
+        "Samtah",
+        "Al-Aridhah",
+        "Abu Arish",
+        "Namerah",
+        "Farasan Island",
+        "Al-Muzaylif",
+        "Mahd Al-Thahab",
+        "Tubarjal",
+        "Ranyah",
+        "Saihat",
+        "Ahad Al-Masarihah",
+        "Anak",
+        "Al-Hait",
+        "Al-Darb",
+        "Al-Badayea",
+        "Baqaa",
+        "Al-Qouz",
+        "Bareq",
+        "Al-Khafji",
+        "Rafha",
+        "Al-Qahma",
+        "Uyun Al-Jawa",
+        "Sarat Ebidah",
+        "Al-Haqu",
+        "Al-Mubarraz"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "102553"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "بانادول إكسترا، علاج الصداع والآلام الشديدة - 24 قرص",
+      "name_locally_en": "Panadol Extra 24 Tablet",
+      "name_locally_sar": "Panadol Extra 24 Tablet",
+      "name_locally_sen": "Panadol Extra 24 Tablet",
+      "algoliaLastUpdateAtCET": "2026-10-13 22:20:11",
+      "objectID": "726",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Panadol</em> Extra 24 Tablet",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Medications /// OTC Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Medications /// OTC Medications /// Analgesics & Antipyretics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "OTC Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Analgesics & Antipyretics",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "102553",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>PANADOL</em> EXTRA 24 TABLET",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "بانادول إكسترا، علاج الصداع والآلام الشديدة - 24 قرص",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Panadol</em> Extra 24 Tablet",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Panadol-Extend 665 mg Tablet 24 Peices",
+      "url": "https://unitedpharmacy.sa/en/panadol-extend-665mg-24-tablet.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Medications"
+        ],
+        "level1": [
+          "Medications /// OTC Medications"
+        ],
+        "level2": [
+          "Medications /// OTC Medications /// Analgesics & Antipyretics"
+        ]
+      },
+      "categories_without_path": [
+        "OTC Medications",
+        "Analgesics & Antipyretics",
+        "Medications"
+      ],
+      "categoryIds": [
+        "605",
+        "238",
+        "239"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_extend_665_mg_18_tablets_1_.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_extend_665_mg_18_tablets_1_.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "102552",
+      "meta_title": "Panadol-Extend 665 mg Tablet 18peices",
+      "price": {
+        "SAR": {
+          "default": 15.75,
+          "default_formated": "15.75",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Panadol",
+      "offer_start_date": "2025-04-04 00:00:00",
+      "offer_end_date": "2025-04-05 00:00:00",
+      "allow_cities": [
+        "Ahad Rofida",
+        "Al-Qahma",
+        "AL-Qunfudhah",
+        "Bisha",
+        "Khamis Mushait",
+        "Al-Aqiq",
+        "Al-Baha",
+        "Al-Makhwah",
+        "Al-Muzaylif",
+        "Al-Qouz",
+        "Baljurashi",
+        "Abqaiq",
+        "Al-Ahsa",
+        "Al-Khafji",
+        "Al-Khobar",
+        "Al-Nuairyah",
+        "Al-Qatif",
+        "Dammam",
+        "Hafar Al-Batin",
+        "Jubail",
+        "Al-Hait",
+        "Hail",
+        "Abu Arish",
+        "Al-Aridhah",
+        "Al-Darb",
+        "Al-Haqu",
+        "Jizan",
+        "Sabya",
+        "Samtah",
+        "AL-Madina",
+        "Badr - Madinah Region",
+        "Mahd Al-Thahab",
+        "Yanbu",
+        "Al-Jumum",
+        "Makkah",
+        "Rabigh",
+        "Ranyah",
+        "Najran",
+        "Al-Qurayyat",
+        "Arar",
+        "Rafha",
+        "Turaif",
+        "Al-Rass",
+        "Al-Zulfi",
+        "Baqaa",
+        "Buraydah",
+        "Unayzah",
+        "Uyun Al-Jawa",
+        "Al-Kharj",
+        "Riyadh",
+        "Al-Wajh",
+        "Duba",
+        "Tabuk",
+        "Tayma",
+        "Umluj"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "102552"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "بانادول اكستند 665 مجم 24 قرص",
+      "name_locally_en": "Panadol-Extend 665 mg Tablet 24 Peices",
+      "name_locally_sar": "Panadol-Extend 665 mg Tablet 24 Peices",
+      "name_locally_sen": "Panadol-Extend 665 mg Tablet 24 Peices",
+      "algoliaLastUpdateAtCET": "2026-10-13 18:30:04",
+      "objectID": "730",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Panadol</em>-Extend 665 mg Tablet 24 Peices",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Medications /// OTC Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Medications /// OTC Medications /// Analgesics & Antipyretics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "OTC Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Analgesics & Antipyretics",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "102552",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>Panadol</em>-Extend 665 mg Tablet 18peices",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "بانادول اكستند 665 مجم 24 قرص",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Panadol</em>-Extend 665 mg Tablet 24 Peices",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Panadol 24 Tablets",
+      "url": "https://unitedpharmacy.sa/en/panadol-500mg-24-tablet.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 99,
+      "categories": {
+        "level0": [
+          "hajj & Umrah Products",
+          "Medications"
+        ],
+        "level1": [
+          "Medications /// OTC Medications"
+        ],
+        "level2": [
+          "Medications /// OTC Medications /// Analgesics & Antipyretics"
+        ]
+      },
+      "categories_without_path": [
+        "hajj & Umrah Products",
+        "OTC Medications",
+        "Analgesics & Antipyretics",
+        "Medications"
+      ],
+      "categoryIds": [
+        "941",
+        "605",
+        "238",
+        "239"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_24_tablets.png?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/p/a/panadol_24_tablets.png?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "102544",
+      "meta_title": "PANADOL 500MG 24 TABLET",
+      "price": {
+        "SAR": {
+          "default": 5.8,
+          "default_formated": "5.80",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Panadol",
+      "offer_start_date": "2025-04-04 00:00:00",
+      "offer_end_date": "2025-04-05 00:00:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Al-Kharj",
+        "Rafha",
+        "Tubarjal",
+        "Khamis Mushait",
+        "Bisha",
+        "Hail",
+        "Al-Baha",
+        "Najran",
+        "Al-Hofuf",
+        "Jizan",
+        "Al-Khobar",
+        "Tabuk",
+        "Buraydah",
+        "Hafar Al-Batin",
+        "Abha",
+        "Arar",
+        "Unayzah",
+        "Mahayel asir",
+        "Baljurashi",
+        "Al-Jumum",
+        "Al-Makhwah",
+        "Al-Namas",
+        "Al-Aridhah",
+        "Ahad Rofida",
+        "Al-Rass",
+        "Jubail",
+        "Rabigh",
+        "Umluj",
+        "Al-Nuairyah",
+        "Abqaiq",
+        "Sabya",
+        "Duba",
+        "Al-Majardah",
+        "Al-Aqiq",
+        "Anak",
+        "Ranyah",
+        "AL-Qunfudhah",
+        "KAUST",
+        "Bareq",
+        "Al-Darb",
+        "Al-Khurma",
+        "Baqaa",
+        "Badr - Madinah Region",
+        "Balqarn",
+        "Tayma",
+        "Al-Qatif",
+        "Al-Qurayyat",
+        "Turubah",
+        "Al-Zulfi",
+        "Al-Wajh",
+        "Khulais",
+        "Abu Arish",
+        "Samtah",
+        "Turaif",
+        "Al-Khafji",
+        "Yanbu",
+        "Al-Henakiyah",
+        "Al-Haqu",
+        "Tathleeth",
+        "Al-Ahsa",
+        "Mahd Al-Thahab",
+        "Al-Hait",
+        "Farasan Island",
+        "Sakaka",
+        "Namerah",
+        "Sharurah",
+        "Al-Qahma",
+        "Al-Badayea",
+        "Al-Majmaah",
+        "Ahad Al-Masarihah",
+        "Al-Qouz",
+        "Saihat",
+        "Al-Mubarraz",
+        "Uyun Al-Jawa",
+        "Al-Mandaq",
+        "Al-Muzaylif"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "102544"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "بنادول 500 مجم، علاج لتسكين الآلام وخفض الحرارة - 24 قرص ",
+      "name_locally_en": "Panadol 24 Tablets",
+      "name_locally_sar": "Panadol 24 Tablets",
+      "name_locally_sen": "Panadol 24 Tablets",
+      "algoliaLastUpdateAtCET": "2026-10-13 22:20:11",
+      "objectID": "727",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Panadol</em> 24 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "hajj & Umrah Products",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            {
+              "value": "Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Medications /// OTC Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Medications /// OTC Medications /// Analgesics & Antipyretics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "hajj & Umrah Products",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "OTC Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Analgesics & Antipyretics",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "102544",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>PANADOL</em> 500MG 24 TABLET",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "بنادول 500 مجم، علاج لتسكين الآلام وخفض الحرارة - 24 قرص ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Panadol</em> 24 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Panadol Actifast - 20 Tablets",
+      "url": "https://unitedpharmacy.sa/en/panadol-actifast-20-tablet.html",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "rating_summary": 100,
+      "categories": {
+        "level0": [
+          "Medications"
+        ],
+        "level1": [
+          "Medications /// OTC Medications"
+        ],
+        "level2": [
+          "Medications /// OTC Medications /// Analgesics & Antipyretics"
+        ]
+      },
+      "categories_without_path": [
+        "OTC Medications",
+        "Analgesics & Antipyretics",
+        "Medications"
+      ],
+      "categoryIds": [
+        "605",
+        "238",
+        "239"
+      ],
+      "thumbnail_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/1/0/1005-gs005_panadol_actifast_20tabs_.jpg?width=75&height=75&store=en&image-type=thumbnail",
+      "image_url": "https://imagenew.unitedpharmacy.sa/live/media/catalog/product/1/0/1005-gs005_panadol_actifast_20tabs_.jpg?width=265&height=265&store=en&image-type=image",
+      "in_stock": 1,
+      "sku": "102545",
+      "meta_title": "PANADOL ACTIFAST 20 TABLET",
+      "price": {
+        "SAR": {
+          "default": 9.15,
+          "default_formated": "9.15",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "brand": "Panadol",
+      "offer_start_date": "2025-04-04 00:00:00",
+      "offer_end_date": "2025-04-05 00:00:00",
+      "allow_cities": [
+        "Dammam",
+        "AL-Madina",
+        "Makkah",
+        "Riyadh",
+        "Taif",
+        "Jeddah",
+        "Badr - Madinah Region",
+        "Umluj",
+        "Al-Darb",
+        "Sarat Ebidah",
+        "Al-Henakiyah",
+        "Tubarjal",
+        "Sabya",
+        "Uyun Al-Jawa",
+        "Al-Qahma",
+        "Al-Majardah",
+        "Tathleeth",
+        "Al-Muzaylif",
+        "Ranyah",
+        "Al-Kharj",
+        "Rafha",
+        "Khamis Mushait",
+        "Bisha",
+        "Hail",
+        "Al-Baha",
+        "Al-Khobar",
+        "Abha",
+        "Jizan",
+        "Buraydah",
+        "Tabuk",
+        "Unayzah",
+        "Ahad Rofida",
+        "Najran",
+        "Al-Hofuf",
+        "Sharurah",
+        "Mahayel asir",
+        "Arar",
+        "Al-Ahsa",
+        "KAUST",
+        "Al-Qatif",
+        "Baljurashi",
+        "Al-Khurma",
+        "Al-Nuairyah",
+        "Baqaa",
+        "Al-Rass",
+        "AL-Qunfudhah",
+        "Yanbu",
+        "Turaif",
+        "Duba",
+        "Al-Haqu",
+        "Al-Makhwah",
+        "Al-Qurayyat",
+        "Balqarn",
+        "Al-Namas",
+        "Al-Jumum",
+        "Al-Zulfi",
+        "Anak",
+        "Hafar Al-Batin",
+        "Khulais",
+        "Al-Mubarraz",
+        "Samtah",
+        "Turubah",
+        "Rabigh",
+        "Al-Aqiq",
+        "Al-Majmaah",
+        "Saihat",
+        "Al-Khafji",
+        "Al-Wajh",
+        "Al-Mandaq",
+        "Al-Hait",
+        "Mahd Al-Thahab",
+        "Farasan Island",
+        "Abqaiq",
+        "Jubail",
+        "Al-Badayea",
+        "Sakaka",
+        "Tayma",
+        "Al-Aridhah",
+        "Abu Arish"
+      ],
+      "catalogrule_start_date": null,
+      "catalogrule_end_date": null,
+      "isOfferTimerEnable": false,
+      "offer_labels_by_group": [],
+      "offer_labels_by_city": null,
+      "offerApplicableLabel": "",
+      "offer_label": "",
+      "isOfferApplicable": false,
+      "isMaksabLabelEnable": false,
+      "maksab_points_label": null,
+      "custom_in_stock": true,
+      "isViewProduct": false,
+      "pharmacist_physician_button": false,
+      "app_sku": [
+        "102545"
+      ],
+      "catalog_rule_ids": [],
+      "getGlobalProduct": {
+        "value": "2",
+        "label": "Express"
+      },
+      "getShippingTypeImg": "https://imagenew.unitedpharmacy.sa/live/media/shipping_types/image/default/Skype_Picture_2024_07_04T20_55_23_752Z.webp",
+      "desktop_offer_img_path": "",
+      "mobile_offer_img_path": "",
+      "app_offer_img_path": "",
+      "name_locally_ar": "بنادول أكتيفاست أقراص  20 قرص",
+      "name_locally_en": "Panadol Actifast - 20 Tablets",
+      "name_locally_sar": "Panadol Actifast - 20 Tablets",
+      "name_locally_sen": "Panadol Actifast - 20 Tablets",
+      "algoliaLastUpdateAtCET": "2026-10-13 17:55:14",
+      "objectID": "728",
+      "_highlightResult": {
+        "name": {
+          "value": "<em>Panadol</em> Actifast - 20 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Medications /// OTC Medications",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Medications /// OTC Medications /// Analgesics & Antipyretics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "OTC Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Analgesics & Antipyretics",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Medications",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "in_stock": {
+          "value": "1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sku": {
+          "value": "102545",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "meta_title": {
+          "value": "<em>PANADOL</em> ACTIFAST 20 TABLET",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        },
+        "name_locally_ar": {
+          "value": "بنادول أكتيفاست أقراص  20 قرص",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name_locally_en": {
+          "value": "<em>Panadol</em> Actifast - 20 Tablets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "panadol"
+          ]
+        }
+      }
+    }
+  ],
+  "nbHits": 13,
+  "page": 0,
+  "nbPages": 3,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "Panadol",
+  "params": "query=Panadol&hitsPerPage=5&tagFilters=",
+  "renderingContent": {},
+  "processingTimeMS": 4,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 76
+    },
+    "extensions": 1,
+    "getIdx": {
+      "total": 1
+    },
+    "total": 4
+  },
+  "serverTimeMS": 5
+}

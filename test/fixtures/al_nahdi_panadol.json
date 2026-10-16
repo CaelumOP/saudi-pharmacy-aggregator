@@ -1,0 +1,334 @@
+{
+  "hits": [
+    {
+      "boosted_points": 0,
+      "objectID": "117154",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/100015980_a198bf84f6e3fdc30_56714.png?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "manufacturer": "Panadol",
+      "name": "Panadol Extra Tablet 24 pcs",
+      "price": {
+        "SAR": {
+          "default": 8,
+          "default_formated": "8.00 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "redbox_pl_custom": "No",
+      "sku": "100015980",
+      "bundle_discount_price_start_date": "2023-02-16 00:00:00",
+      "bundle_skus": 102005195,
+      "fulfilment_source": "Hubstore",
+      "global_filter": "Express",
+      "imf_class": "ADULT SIMPLE ANALGESICS",
+      "max_qty": 1000,
+      "min_qty": 1,
+      "rx_items": "No",
+      "bundle_discount_price_end_date": "2023-02-28 00:00:00",
+      "url": "https://ecombe.nahdionline.com/en/panadol-extra-tablet-24-pcs"
+    },
+    {
+      "url": "https://ecombe.nahdionline.com/en/panadol-advance-500-tablets-24",
+      "fulfilment_source": "Hubstore",
+      "imf_class": "ADULT SIMPLE ANALGESICS",
+      "price": {
+        "SAR": {
+          "default": 6.95,
+          "default_formated": "6.95 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "min_qty": 1,
+      "rx_items": "No",
+      "sku": "100726280",
+      "boosted_points": 0,
+      "global_filter": "Express",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/100726280_a2ae2563085863c0a_6333.png?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "manufacturer": "Panadol",
+      "max_qty": 1000,
+      "name": "Panadol Advance Paracetamol  500 mg -  24 Tablets",
+      "redbox_pl_custom": "No",
+      "objectID": "157305"
+    },
+    {
+      "max_qty": 1000,
+      "min_qty": 1,
+      "rx_items": "No",
+      "sku": "100015947",
+      "url": "https://ecombe.nahdionline.com/en/panadol-paracetamol-500-mg-24-caplets",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/100015947_a50e65db4293b592a_40224.png?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "manufacturer": "Panadol",
+      "price": {
+        "SAR": {
+          "default": 5.8,
+          "default_formated": "5.80 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "global_filter": "Express",
+      "name": "Panadol 24 Tablets",
+      "objectID": "122800",
+      "redbox_pl_custom": "No",
+      "boosted_points": 0,
+      "fulfilment_source": "Hubstore",
+      "imf_class": "ADULT SIMPLE ANALGESICS"
+    },
+    {
+      "bundle_discount_price_end_date": "2023-02-28 00:00:00",
+      "fulfilment_source": "Hubstore",
+      "max_qty": 1000,
+      "price": {
+        "SAR": {
+          "default": 13.6,
+          "default_formated": "13.60 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "bundle_skus": 101998560,
+      "boosted_points": 0,
+      "imf_class": "COLD MEDICATIONS AND ANALGESIC",
+      "manufacturer": "Panadol",
+      "min_qty": 1,
+      "redbox_pl_custom": "No",
+      "rx_items": "No",
+      "sku": "100017281",
+      "url": "https://ecombe.nahdionline.com/en/panadol-sinus-caplet-24pcs",
+      "bundle_discount_price_start_date": "2023-02-16 00:00:00",
+      "global_filter": "Express",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/100017281_ab51b636fa7dd3bd3_41421.png?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "name": "Panadol Day Non-Drowsy Sinus Pain Relief 24 Caplets",
+      "objectID": "124276"
+    },
+    {
+      "global_filter": "Express",
+      "imf_class": "COLD MEDICATIONS AND ANALGESIC",
+      "redbox_pl_custom": "No",
+      "fulfilment_source": "Hubstore",
+      "image_url": "https://ecombe.nahdionline.com/media/catalog/product/1/0/100014160_a3701b7826cdce8e8_62356.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "max_qty": 1000,
+      "name": "Panadol Cold & Flu Night Time 24 Caplets",
+      "price": {
+        "SAR": {
+          "default": 16.05,
+          "default_formated": "16.05 SAR",
+          "special_from_date": "",
+          "special_to_date": ""
+        }
+      },
+      "objectID": "124342",
+      "boosted_points": 0,
+      "url": "https://ecombe.nahdionline.com/en/panadol-cold-flu-caplet-24pcs",
+      "sku": "100014160",
+      "manufacturer": "Panadol",
+      "min_qty": 1,
+      "rx_items": "No"
+    }
+  ],
+  "nbHits": 100,
+  "hitsPerPage": 5,
+  "page": 0,
+  "nbPages": 20,
+  "processingTimeMS": 128,
+  "processingTimingsMS": {
+    "stringRegexpExtract": {
+      "total": 0
+    },
+    "evaluateRules": {
+      "marshalMS": 0,
+      "buildRequestMS": 0,
+      "networkMS": 3,
+      "unmarshalMS": 0,
+      "total": 22,
+      "pinRetrievalMS": 19
+    },
+    "hashText": {
+      "total": 22
+    },
+    "merge": {
+      "total": 0
+    },
+    "needSortBuckets": {
+      "total": 0
+    },
+    "getAIConfig": {
+      "total": 0
+    },
+    "getBrowseFilter": {
+      "total": 0
+    },
+    "experimentalAdaptiveIntentHash": {
+      "total": 1
+    },
+    "experimentalFilterVectorResultsByCosine": {
+      "total": 0
+    },
+    "rank": {
+      "total": 0
+    },
+    "total": 128,
+    "getBrowseFilters": {
+      "total": 0
+    },
+    "makeDRRRule": {
+      "total": 0
+    },
+    "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+    },
+    "makeKeywordRequest": {
+      "total": 0
+    },
+    "keywordSearch": {
+      "_request": {
+        "queue": 20,
+        "roundTrip": 5
+      },
+      "network": 47,
+      "afterFetch": {
+        "format": {
+          "total": 1
+        }
+      },
+      "fetch": {
+        "query": 1,
+        "total": 2
+      },
+      "total": 47
+    },
+    "isLegacyExtensionEnabled": {
+      "total": 0
+    },
+    "runLegacyExtension": {
+      "total": 1
+    },
+    "makeVectorRequest": {
+      "total": 0
+    },
+    "vectorSearch": {
+      "fetch": {
+        "scanning": 10,
+        "total": 11
+      },
+      "afterFetch": {
+        "format": {
+          "total": 2
+        },
+        "merge": {
+          "entries": {
+            "total": 1
+          },
+          "mergeLoop": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 38,
+      "network": 38
+    },
+    "makeResponse": {
+      "afterFetch": {
+        "merge": {
+          "entries": {
+            "total": 1
+          },
+          "mergeLoop": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 37,
+      "fetch": {
+        "total": 1
+      },
+      "rulesProcessing": {
+        "indexRules": 1,
+        "total": 1
+      },
+      "extractDocsToPromoteDetails": {
+        "pinRetrieval": {
+          "search": {
+            "total": 1
+          },
+          "total": 7,
+          "filterSetup": 5
+        },
+        "total": 7
+      },
+      "_request": {
+        "queue": 10,
+        "roundTrip": 16
+      },
+      "getIdx": {
+        "load": {
+          "total": 2
+        },
+        "total": 5,
+        "unload": 2
+      }
+    },
+    "makeLegacyExtensionRequest": {
+      "total": 0
+    },
+    "normalizeText": {
+      "total": 0
+    },
+    "drrPromotedObjectIDs": {
+      "total": 0
+    }
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "query": "Panadol",
+  "queryAfterRemoval": "Panadol",
+  "queryID": "15cf5a668dbe6e74956818aae95f33f6",
+  "_automaticInsights": true,
+  "params": "query=Panadol&hitsPerPage=5&numericFilters=%5B%22visibility_search%3D1%22%2C%22price.SAR.default%3E0.01%22%5D&optionalFilters=%5B%22imf_category%3A-PETS+CARE%5Cu003cscore%3D8%5Cu003e%22%2C%22imf_item_brand%3A-Pampers%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Head+%5Cu0026+Shoulders%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Herbal+Essences%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Pantene%5Cu003cscore%3D10%5Cu003e%22%2C%22imf_item_brand%3A-Always%5Cu003cscore%3D10%5Cu003e%22%5D&sumOrFiltersScores=false",
+  "extensions": {
+    "queryCategorization": {
+      "normalizedQuery": "panadol",
+      "count": 7696
+    }
+  },
+  "userData": [
+    {
+      "component_type": "homepage_hero_banner_carousel",
+      "entity_id": "23q2lY07Nd8gtHrEXPrGFR",
+      "image_size_definition": "SMALL",
+      "items": [
+        {
+          "asset_type": "IMAGE",
+          "entity_id": "3rI8kWkojVLUFlDReRQRcu",
+          "link": "lady-speed",
+          "link_type": "PLP",
+          "mobile_image": "https://dam.nahdionline.com/asset/12c1da28-51b6-4cb6-b0d0-1c42311e7a73/Hero_Banners_Large_No_Padding.jpg",
+          "name": "Search - Medicine Free Delivery",
+          "web_image": "https://dam.nahdionline.com/asset/12c1da28-51b6-4cb6-b0d0-1c42311e7a73/Hero_Banners_Large_No_Padding.jpg"
+        }
+      ],
+      "name": "Search - Medicine Free Delivery",
+      "speed": 5
+    }
+  ],
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": []
+      }
+    }
+  },
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "aiReRanking": {
+    "reRankingActivated": true,
+    "persoImpactInsideActivationWindow": false
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "type": "productCategorySearchPageWsDTO",
+  "categoryBreadcrumbs": [],
+  "currentQuery": {
+    "query": {
+      "value": "Cetaphil:relevance"
+    },
+    "url": "/search?q=Cetaphil%3Arelevance"
+  },
+  "freeTextSearch": "Cetaphil",
+  "pagination": {
+    "currentPage": 0,
+    "pageSize": 5,
+    "sort": "relevance",
+    "totalPages": 8,
+    "totalResults": 36
+  },
+  "products": [
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "averageRating": 5.0,
+      "bonded": false,
+      "brand": {
+        "code": "990466",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Cetaphil",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "100436",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/سيتافيل-كريم-مرطب-للوجه-والجسم-453-جم_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMDIwMnxpbWFnZS93ZWJwfGFESTRMMmhoT1M4NU5qQTJOamswTWpBM05URTRMekV3TURRek5sOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDFmYjcxNDc1MTk1MmUwNGU2MDE5ZjMzMDE5YTE2OGIzYWUxMGQwMjYwMzkzMjhjZTBhYTlhNTMxYWYzMzM1YzU"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Cetaphil-Moisturizing-Cream-For-Face-Body-453-G_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMDIwMnxpbWFnZS93ZWJwfGFHUTVMMmc1WVM4NU5qQTJOamswTmpZMk1qY3dMekV3TURRek5sOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDYyNDVhNDEwNDc4ODk0ZGM5YTkyZWEzMWM5YjhhMTcwZDNiNjQyZDc5N2I2M2FmNDRjMWNhZjVlZDM0NDk0NzM"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Cetaphil, Moisturizing Cream, For Face & Body - 453 G",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 26.0,
+      "numberOfArbahiPointsToPay": 2050.0,
+      "numberOfQitafPointsToPay": 1230.0,
+      "potentialPromotions": [
+        {
+          "code": "25% Off",
+          "displayCountDown": false,
+          "hidePrice": false,
+          "hidePriceLandingCategoryPage": false,
+          "hidePricePDP": false,
+          "hidePricePLP": false,
+          "hidePriceSearch": false,
+          "percentagePromotion": 0.0
+        }
+      ],
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "141.45",
+        "priceType": "BUY",
+        "value": 141.45
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "WOMAN10",
+          "image": {
+            "code": "wmn10-en",
+            "format": "desktop",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFEUTFMMmhsTUM4NU56TXpNRGsyT0RrNE5Ua3dMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58ZDhhYjBiMzY5MDllNzgwMTc2MzUyMDc3ZjA4ZDc3YzUxNzcwYjExNmYyNzYzZmZhYjUyZmY0NjliOGNiZDExMA"
+          },
+          "mobileImage": {
+            "code": "wmn10-en m",
+            "format": "mobile",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFETTBMMmhrWkM4NU56TXpNRGsyT1RZME1USTJMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58MjkwOWZmMTJkNDMyMmRlMWZjMWEzMjM5NDM2MzdhYzIzZTJmNmU4YWU1NmE3YmIwN2U4OTVhNDMxZmMwYjIxZg"
+          },
+          "position": {
+            "code": "TOP_LEFT"
+          },
+          "priority": 347,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        },
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "106.09",
+        "priceType": "BUY",
+        "value": 106.09
+      },
+      "simulatedDiscountPriceEndDate": "2026/10/15 23:59:00",
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Category/Beauty-%26-Skin-Care/Skin-Concerns/Eczema-%26-Dryness/Cetaphil%2C-Moisturizing-Cream%2C-For-Face-%26-Body---453-G/p/100436",
+      "urlProductName": "cetaphil-moisturizing-cream-face-body-453-gm",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "990466",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Cetaphil",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "103075",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/سيتافيل-منظف-لطيف-للبشرة-للوجه-والجسم-118-مل_0_300.webp?context=bWFzdGVyfGltYWdlc3w5ODc4fGltYWdlL3dlYnB8YUROaEwyZzBaQzg1TlRjeE9UTXlOVEEwTURrMEx6RXdNekEzTlY4d1gyRnlYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8NWIxZTlkMDk5MjdkZDM4YTcyYTc0ZWI1MWEyOTRjMmExZTdjNzA4OWM5NWZiNDJkMTY4MjhlNmY1YWM5MmY2ZA"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Cetaphil-Gentle-Skin-Cleanser-For-Face-Body-118-Ml_0_300.webp?context=bWFzdGVyfGltYWdlc3w5ODc4fGltYWdlL3dlYnB8YUdRNUwyZzFaQzg1TlRjeE9UTXlNRFExTXpReUx6RXdNekEzTlY4d1gyVnVYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8NTZlZTJjNTE1YTg5NTM3NjNlZWEyMDdjYTdhODk2MTg2ZWZkN2M3NmY3YTc0YzJhZTM4M2YxYjc3MTA4NGRjYg"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Cetaphil, Gentle Skin Cleanser, For Face & Body - 118 Ml",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 7.0,
+      "numberOfArbahiPointsToPay": 577.0,
+      "numberOfQitafPointsToPay": 520.0,
+      "potentialPromotions": [
+        {
+          "code": "50% Off",
+          "displayCountDown": false,
+          "hidePrice": false,
+          "hidePriceLandingCategoryPage": false,
+          "hidePricePDP": false,
+          "hidePricePLP": false,
+          "hidePriceSearch": false,
+          "percentagePromotion": 0.0
+        }
+      ],
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "59.80",
+        "priceType": "BUY",
+        "value": 59.8
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "29.90",
+        "priceType": "BUY",
+        "value": 29.9
+      },
+      "simulatedDiscountPriceEndDate": "2026/10/15 23:59:00",
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Category/Beauty-%26-Skin-Care/Skin-Concerns/Eczema-%26-Dryness/Cetaphil%2C-Gentle-Skin-Cleanser%2C-For-Face-%26-Body---118-Ml/p/103075",
+      "urlProductName": "cetaphil-gentle-skin-cleanser-face-body-118-ml",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "990466",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Cetaphil",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "103076",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/سيتافيل-منظف-لطيف-للبشرة-للوجه-والجسم-236-مل_0_300.webp?context=bWFzdGVyfGltYWdlc3w3NTE4fGltYWdlL3dlYnB8YUdGakwyZ3lOeTg1TlRjeE9UTXpPRGd3TXpVd0x6RXdNekEzTmw4d1gyRnlYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8OGFkZjhhYjhlMGE1NjA0YTdkYzZhZWZjYmY5ZTA2OTZkNTJlMDg0MzY2MmNlMDMzODNjNjhmYjdkZjBjZjNkMA"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Cetaphil-Gentle-Skin-Cleanser-For-Face-Body-236-Ml_0_300.webp?context=bWFzdGVyfGltYWdlc3w3NTE4fGltYWdlL3dlYnB8YUdVekwyZzNaaTg1TlRjeE9UTTBNek01TVRBeUx6RXdNekEzTmw4d1gyVnVYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8ZGNjNGJiNzc4N2ViN2UxYzY4ZmNlYjA0Zjk4NDBkMmIzNTFhMjU1OTNkYzZmNWQxZGZjZGUyNmRlZjY4Y2Y0ZQ"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Cetaphil, Gentle Skin Cleanser, For Face & Body - 236 Ml",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 13.0,
+      "numberOfArbahiPointsToPay": 1055.0,
+      "numberOfQitafPointsToPay": 950.0,
+      "potentialPromotions": [
+        {
+          "code": "50% Off",
+          "displayCountDown": false,
+          "hidePrice": false,
+          "hidePriceLandingCategoryPage": false,
+          "hidePricePDP": false,
+          "hidePricePLP": false,
+          "hidePriceSearch": false,
+          "percentagePromotion": 0.0
+        }
+      ],
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "109.25",
+        "priceType": "BUY",
+        "value": 109.25
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "WOMAN10",
+          "image": {
+            "code": "wmn10-en",
+            "format": "desktop",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFEUTFMMmhsTUM4NU56TXpNRGsyT0RrNE5Ua3dMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58ZDhhYjBiMzY5MDllNzgwMTc2MzUyMDc3ZjA4ZDc3YzUxNzcwYjExNmYyNzYzZmZhYjUyZmY0NjliOGNiZDExMA"
+          },
+          "mobileImage": {
+            "code": "wmn10-en m",
+            "format": "mobile",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFETTBMMmhrWkM4NU56TXpNRGsyT1RZME1USTJMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58MjkwOWZmMTJkNDMyMmRlMWZjMWEzMjM5NDM2MzdhYzIzZTJmNmU4YWU1NmE3YmIwN2U4OTVhNDMxZmMwYjIxZg"
+          },
+          "position": {
+            "code": "TOP_LEFT"
+          },
+          "priority": 347,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        },
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "54.63",
+        "priceType": "BUY",
+        "value": 54.63
+      },
+      "simulatedDiscountPriceEndDate": "2026/10/15 23:59:00",
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Category/Beauty-%26-Skin-Care/Skin-Concerns/Eczema-%26-Dryness/Cetaphil%2C-Gentle-Skin-Cleanser%2C-For-Face-%26-Body---236-Ml/p/103076",
+      "urlProductName": "cetaphil-gentle-skin-cleanser-face-body-236-ml",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "990466",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Cetaphil",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "103077",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/سيتافيل-منظف-لطيف-للبشرة-للوجه-والجسم-500-مل_0_300.webp?context=bWFzdGVyfGltYWdlc3w2OTg4fGltYWdlL3dlYnB8YURBMkwyaGxOeTg1Tmpnek5UVTFNREkwT1RJMkx6RXdNekEzTjE4d1gyRnlYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8ZTU1Mjc3MWExZDkyYTBiZTM3NjIwNWUzODk0N2E1NTA4ZTZlOWVkZGFhZGJhYjUzZWMxN2I0ZmE5ODY5NDgwMA"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Cetaphil-Gentle-Skin-Cleanser-For-Face-Body-500-Ml_0_300.webp?context=bWFzdGVyfGltYWdlc3w2OTg4fGltYWdlL3dlYnB8YUdKakwyZzRaUzg1Tmpnek5UVTBOVFkyTVRjMEx6RXdNekEzTjE4d1gyVnVYek13TUZkNE16QXdTRjlYUlVKUUxuZGxZbkF8Yjc5YzI1MDExYmQ4NGQ5ZjIwNDVjMGY1YzEzZjk1MWRlMDExYzRmNGEzZjllNGJkOWQ4NWE1YmJiYWQ2NDIxOQ"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Cetaphil, Gentle Skin Cleanser, For Face & Body - 500 Ml",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 28.0,
+      "numberOfArbahiPointsToPay": 2177.0,
+      "numberOfQitafPointsToPay": 1400.0,
+      "potentialPromotions": [
+        {
+          "code": "30% Off",
+          "displayCountDown": false,
+          "hidePrice": false,
+          "hidePriceLandingCategoryPage": false,
+          "hidePricePDP": false,
+          "hidePricePLP": false,
+          "hidePriceSearch": false,
+          "percentagePromotion": 0.0
+        }
+      ],
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "161.00",
+        "priceType": "BUY",
+        "value": 161.0
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "112.70",
+        "priceType": "BUY",
+        "value": 112.7
+      },
+      "simulatedDiscountPriceEndDate": "2026/12/31 23:59:00",
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Category/Beauty-%26-Skin-Care/Skin-Concerns/Eczema-%26-Dryness/Cetaphil%2C-Gentle-Skin-Cleanser%2C-For-Face-%26-Body---500-Ml/p/103077",
+      "urlProductName": "cetaphil-gentle-skin-cleanser-face-body-500-ml",
+      "wasleen": false
+    },
+    {
+      "addToCartDisabled": false,
+      "arMaxDarkcircles": 0,
+      "arMaxSpots": 0,
+      "arMaxTexture": 0,
+      "arMaxWrinkles": 0,
+      "arMinDarkcircles": 0,
+      "arMinSpots": 0,
+      "arMinTexture": 0,
+      "arMinWrinkles": 0,
+      "bonded": false,
+      "brand": {
+        "code": "990466",
+        "invisibleOnMenu": false,
+        "invisibleOnOffers": false,
+        "name": "Cetaphil",
+        "numberOfProducts": 0
+      },
+      "bundleProduct": false,
+      "code": "102539",
+      "configurable": false,
+      "configuratorType": "",
+      "cura": false,
+      "disabledQitafPayment": false,
+      "enableARSkinAnalysis": false,
+      "enableDelivery": false,
+      "enablePickUp": false,
+      "enabledArbahiPointsToHaveLabel": true,
+      "enabledArbahiPointsToPayLabel": true,
+      "enabledQitafPointsToPayLabel": true,
+      "eventEligible": false,
+      "excludedFromPromotion": false,
+      "fraction": false,
+      "hidePrice": false,
+      "hidePriceLandingCategoryPage": false,
+      "hidePricePDP": false,
+      "hidePricePLP": false,
+      "hidePriceSearch": false,
+      "imageUrl": [
+        {
+          "key": "ar",
+          "value": "/medias/سيتافيل-صابونة-تنظيف-لطيفة-للوجه-والجسم-127-جم_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMTY5MnxpbWFnZS93ZWJwfGFHSm1MMmhrT1M4NU5UY3hPVEUwTVRVME1ERTBMekV3TWpVek9WOHdYMkZ5WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfGYxN2IyNTBhMzdjOGYzNGU4YmIyZjdkN2U1ZGU0MjBlY2Q3YTJmOGQ2NGZiNzE0NDQxNzI4NGEyYTRhMjM0ZjI"
+        },
+        {
+          "key": "en",
+          "value": "/medias/Cetaphil-Gentle-Cleansing-Bar-For-Face-Body-127-G_0_300.webp?context=bWFzdGVyfGltYWdlc3wxMTY5MnxpbWFnZS93ZWJwfGFEYzFMMmc0TVM4NU5UY3hPVEV6TmprMU1qWXlMekV3TWpVek9WOHdYMlZ1WHpNd01GZDRNekF3U0Y5WFJVSlFMbmRsWW5BfDI5YjNhNTYxYzc1ZTk5NzJkNjk0YTdlMmIyMGNiMWQ2NjdmODVmMTQ3NTA5OGI0ODJlZmY5YWU3ODZhMzU0Mzk"
+        }
+      ],
+      "inWishlist": false,
+      "instagramFeed": false,
+      "isGiftCardProduct": false,
+      "locallyFulfilled": false,
+      "maxOrderQuantity": 0,
+      "minOrderQuantity": 0,
+      "msiStock": true,
+      "multidimensional": false,
+      "name": "Cetaphil, Gentle Cleansing Bar, For Face & Body - 127 G",
+      "notified": false,
+      "numberOfArbahiPointsToHave": 4.0,
+      "numberOfArbahiPointsToPay": 355.0,
+      "numberOfQitafPointsToPay": 320.0,
+      "potentialPromotions": [
+        {
+          "code": "50% Off",
+          "displayCountDown": false,
+          "hidePrice": false,
+          "hidePriceLandingCategoryPage": false,
+          "hidePricePDP": false,
+          "hidePricePLP": false,
+          "hidePriceSearch": false,
+          "percentagePromotion": 0.0
+        }
+      ],
+      "prescription": false,
+      "price": {
+        "currencyIso": "SAR",
+        "formattedValue": "36.80",
+        "priceType": "BUY",
+        "value": 36.8
+      },
+      "priceRange": {},
+      "productLabels": [
+        {
+          "code": "WOMAN10",
+          "image": {
+            "code": "wmn10-en",
+            "format": "desktop",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFEUTFMMmhsTUM4NU56TXpNRGsyT0RrNE5Ua3dMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58ZDhhYjBiMzY5MDllNzgwMTc2MzUyMDc3ZjA4ZDc3YzUxNzcwYjExNmYyNzYzZmZhYjUyZmY0NjliOGNiZDExMA"
+          },
+          "mobileImage": {
+            "code": "wmn10-en m",
+            "format": "mobile",
+            "url": "/medias/Offer-Coupon-label-2-.png?context=bWFzdGVyfHJvb3R8MTIyNzV8aW1hZ2UvcG5nfGFETTBMMmhrWkM4NU56TXpNRGsyT1RZME1USTJMMDltWm1WeUlFTnZkWEJ2YmlCc1lXSmxiQ0FvTWlrdWNHNW58MjkwOWZmMTJkNDMyMmRlMWZjMWEzMjM5NDM2MzdhYzIzZTJmNmU4YWU1NmE3YmIwN2U4OTVhNDMxZmMwYjIxZg"
+          },
+          "position": {
+            "code": "TOP_LEFT"
+          },
+          "priority": 347,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        },
+        {
+          "code": "q-commerce",
+          "image": {
+            "code": "aldawaa-now-web-en",
+            "format": "widescreen",
+            "url": "/medias/En-Web.png?context=bWFzdGVyfHJvb3R8MzkxN3xpbWFnZS9wbmd8YUdKaUwyZzVNaTg1TmpVeU1ESTRORGN6TXpjMEwwVnVMVmRsWWk1d2JtY3w0ZTM4MDg0OWQ2OTViMzk2YWJlMzIxOTVhNzc1MzRjOGRhNTIxM2E1ODVhMDhiYjU2YWE5MDhiZDlkOGIwMDJj"
+          },
+          "mobileImage": {
+            "code": "aldawaa-now-mob-en",
+            "format": "mobile",
+            "url": "/medias/En-Mobile.png?context=bWFzdGVyfHJvb3R8NTQ5OXxpbWFnZS9wbmd8YUdOaEwyZzVPQzg1TmpVeU1ESTROakEwTkRRMkwwVnVMVTF2WW1sc1pTNXdibWN8ZmE5ZDJhNWYxZjdiYzQ4NTFlZTJlNjBjNzkxNGUzNjlhYjMwMTg2YTZkMzhjNmFlNDRmZWYzYmM3YmEyZDg5Yw"
+          },
+          "position": {
+            "code": "BOTTOM_OUT"
+          },
+          "priority": 100,
+          "shape": {
+            "code": "CIRCLE",
+            "name": "CIRCLE"
+          },
+          "size": 0.0,
+          "text": "Arrives within 60 minutes (eligible areas)",
+          "type": {
+            "code": "UPLOAD_IMAGE",
+            "name": "UPLOAD IMAGE"
+          }
+        }
+      ],
+      "quickCommerceEnabled": false,
+      "refundAddToCartMsg": "Some digital money payment is not enabled for this product which is already added to cart. Adding thus product will result to refund it. Would you like to proceed?",
+      "showSpecialProductLabel": false,
+      "simulatedDiscountPrice": {
+        "currencyIso": "SAR",
+        "formattedValue": "18.40",
+        "priceType": "BUY",
+        "value": 18.4
+      },
+      "simulatedDiscountPriceEndDate": "2026/10/15 23:59:00",
+      "special": false,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "subscribeSave": false,
+      "tabby": false,
+      "tamara": false,
+      "tryOutAR": false,
+      "url": "/Category/Beauty-%26-Skin-Care/Skin-Concerns/Eczema-%26-Dryness/Cetaphil%2C-Gentle-Cleansing-Bar%2C-For-Face-%26-Body---127-G/p/102539",
+      "urlProductName": "cetaphil-gentle-cleansing-bar-face-body-127-gm",
+      "wasleen": false
+    }
+  ],
+  "sorts": [
+    {
+      "code": "relevance",
+      "name": "Sort by recommended",
+      "selected": true
+    },
+    {
+      "code": "newestDate",
+      "name": "Latest",
+      "selected": false
+    },
+    {
+      "code": "price-asc",
+      "name": "Low Price",
+      "selected": false
+    },
+    {
+      "code": "price-desc",
+      "name": "High price",
+      "selected": false
+    },
+    {
+      "code": "topRated",
+      "name": "Top rated",
+      "selected": false
+    },
+    {
+      "code": "bestSeller-desc",
+      "name": "Best Seller",
+      "selected": false
+    },
+    {
+      "code": "promoPriority-desc",
+      "name": "Sort by Offers",
+      "selected": false
+    }
+  ],
+  "stats": {
+    "all": {
+      "max": 189.75,
+      "min": 34.5
+    }
+  }
+}
