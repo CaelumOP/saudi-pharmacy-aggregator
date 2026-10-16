@@ -23,18 +23,11 @@ jobs:
           channel: 'stable'
           cache: true
 
+      - name: Precache iOS Artifacts
+        run: flutter precache --ios
+
       - name: Install Flutter Dependencies
         run: flutter pub get
-
-      - name: Configure iOS Podfile Deployment Target (iOS 14.0+)
-        run: |
-          flutter build ios --config-only --no-codesign
-          if [ -f ios/Podfile ]; then
-            sed -i '' "s/# platform :ios, '12.0'/platform :ios, '14.0'/g" ios/Podfile
-            sed -i '' "s/# platform :ios, '13.0'/platform :ios, '14.0'/g" ios/Podfile
-            sed -i '' "s/platform :ios, '12.0'/platform :ios, '14.0'/g" ios/Podfile
-            sed -i '' "s/platform :ios, '13.0'/platform :ios, '14.0'/g" ios/Podfile
-          fi
 
       - name: Build Unsigned Release iOS App
         run: flutter build ios --release --no-codesign

@@ -213,7 +213,7 @@ class CanonicalProductHero extends StatelessWidget {
                           child: Image.network(
                             displayImageUrl,
                             fit: BoxFit.contain,
-                            errorBuilder: (_, _, _) =>
+                            errorBuilder: (ctx, err, stack) =>
                                 Icon(Icons.medication, color: isDark ? Colors.white38 : Colors.grey),
                           ),
                         )

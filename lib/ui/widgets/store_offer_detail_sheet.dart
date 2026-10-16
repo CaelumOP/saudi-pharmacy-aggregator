@@ -155,7 +155,7 @@ class StoreOfferDetailSheet extends StatelessWidget {
                                 child: Image.network(
                                   offer.imageUrl!,
                                   fit: BoxFit.contain,
-                                  errorBuilder: (_, _, _) =>
+                                  errorBuilder: (ctx, err, stack) =>
                                       Icon(Icons.medication, size: 40, color: subtitleColor),
                                 ),
                               )

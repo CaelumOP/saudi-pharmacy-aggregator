@@ -421,7 +421,7 @@ class _HomeComparisonScreenState extends State<HomeComparisonScreen> {
                   scrollDirection: Axis.horizontal,
                   padding: const EdgeInsets.symmetric(horizontal: 16),
                   itemCount: _suggestions.length,
-                  separatorBuilder: (_, _) => const SizedBox(width: 8),
+                  separatorBuilder: (ctx, idx) => const SizedBox(width: 8),
                   itemBuilder: (ctx, idx) {
                     final sugg = _suggestions[idx];
                     return ActionChip(
