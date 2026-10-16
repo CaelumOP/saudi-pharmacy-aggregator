@@ -1,0 +1,59 @@
+name: Build Unsigned iOS IPA & Attach to Release
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-ios-ipa:
+    name: Compile iOS IPA (macOS Xcode)
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter SDK
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+
+      - name: Install Flutter Dependencies
+        run: flutter pub get
+
+      - name: Configure iOS Podfile Deployment Target (iOS 14.0+)
+        run: |
+          flutter build ios --config-only --no-codesign
+          if [ -f ios/Podfile ]; then
+            sed -i '' "s/# platform :ios, '12.0'/platform :ios, '14.0'/g" ios/Podfile
+            sed -i '' "s/# platform :ios, '13.0'/platform :ios, '14.0'/g" ios/Podfile
+            sed -i '' "s/platform :ios, '12.0'/platform :ios, '14.0'/g" ios/Podfile
+            sed -i '' "s/platform :ios, '13.0'/platform :ios, '14.0'/g" ios/Podfile
+          fi
+
+      - name: Build Unsigned Release iOS App
+        run: flutter build ios --release --no-codesign
+
+      - name: Package Runner.app into Sideloadable .ipa
+        run: |
+          mkdir -p Payload
+          cp -R build/ios/iphoneos/Runner.app Payload/
+          zip -r -y SaudiPharmacyAggregator-v2.0.0-iOS.ipa Payload
+          ls -lh SaudiPharmacyAggregator-v2.0.0-iOS.ipa
+
+      - name: Upload IPA as GitHub Actions Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SaudiPharmacyAggregator-v2.0.0-iOS-IPA
+          path: SaudiPharmacyAggregator-v2.0.0-iOS.ipa
+
+      - name: Attach IPA to GitHub Release v2.0.0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release upload v2.0.0 SaudiPharmacyAggregator-v2.0.0-iOS.ipa --clobber
