@@ -65,14 +65,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.9"
-  cronet_http:
-    dependency: "direct main"
-    description:
-      name: cronet_http
-      sha256: d8aa6c72b4a3b6c9b299a53f0c4e10cfc87961b2c7496e6c9a7216157f9c529c
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.10.0"
   crypto:
     dependency: transitive
     description:
@@ -240,14 +232,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.2"
-  http:
-    dependency: transitive
-    description:
-      name: http
-      sha256: "87721a4a50b19c7f1d49001e51409bddc46303966ce89a65af4f4e6004896412"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.6.0"
   http_parser:
     dependency: transitive
     description:
@@ -256,14 +240,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.2"
-  http_profile:
-    dependency: transitive
-    description:
-      name: http_profile
-      sha256: "7e679e355b09aaee2ab5010915c932cce3f2d1c11c3b2dc177891687014ffa78"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.0"
   jni:
     dependency: transitive
     description:
@@ -617,10 +593,10 @@ packages:
     dependency: transitive
     description:
       name: vm_service
-      sha256: "5f37239c4851efcef929cea7824e76df7f2f0970aef85d66bbc430afa40e72f0"
+      sha256: "89b11d62e1040ee681af3b4f1c97a803ecbf010c6e8b9c5896ee5b08c3bf7b78"
       url: "https://pub.dev"
     source: hosted
-    version: "15.3.0"
+    version: "15.4.0"
   web:
     dependency: transitive
     description:
@@ -646,5 +622,5 @@ packages:
     source: hosted
     version: "3.1.4"
 sdks:
-  dart: ">=3.13.5 <4.0.0"
+  dart: ">=3.12.0 <4.0.0"
   flutter: ">=3.44.0"
